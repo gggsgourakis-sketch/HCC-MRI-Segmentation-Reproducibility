@@ -123,7 +123,7 @@ Matched-lesion Dice is conditional on successful spatial localisation and should
 
 ## Permanent identifiers
 
-Zenodo DOI: **[TO BE INSERTED BEFORE PUBLICATION]**
+Zenodo DOI: **10.5281/zenodo.22228909**
 
 GitHub repository: **https://github.com/gggsgourakis-sketch/HCC-MRI-Segmentation-Reproducibility**
 
