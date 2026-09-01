@@ -33,7 +33,7 @@ Source medical images must be obtained from the original public repositories und
 - 69 HCC-negative subjects.
 - Single venous T1 input.
 - Fixed five-fold patient-level cross-validation.
-- Primary analysis uses the prespecified best-checkpoint rule.
+- Primary checkpoint rule: `checkpoint_best` selected automatically by nnU-Net EMA foreground pseudo-Dice; final checkpoints were not selected retrospectively.
 - This experiment is a within-OpenSwissHCC development/ablation analysis and is not external validation.
 
 ## Dataset805_OpenSwissHCC_ArterialVenous
