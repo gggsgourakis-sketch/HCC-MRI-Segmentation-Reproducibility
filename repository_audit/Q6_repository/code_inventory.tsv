@@ -1,0 +1,11 @@
+relative_path	size_bytes	path
+code_safe/register_openswiss_test.py	12427	<HCC_PROJECT_ROOT>/code_safe/register_openswiss_test.py
+code_safe/register_openswiss_test_before_cli_groupwise.py	8286	<HCC_PROJECT_ROOT>/code_safe/register_openswiss_test_before_cli_groupwise.py
+code_safe/qa_registration_test.py	4790	<HCC_PROJECT_ROOT>/code_safe/qa_registration_test.py
+code_safe/register_openswiss_all.py	12444	<HCC_PROJECT_ROOT>/code_safe/register_openswiss_all.py
+code_safe/build_hcc_master_labels.py	8968	<HCC_PROJECT_ROOT>/code_safe/build_hcc_master_labels.py
+code_safe/create_nnunet_dataset804.py	8428	<HCC_PROJECT_ROOT>/code_safe/create_nnunet_dataset804.py
+code_safe/create_nnunet_dataset805.py	21792	<HCC_PROJECT_ROOT>/code_safe/create_nnunet_dataset805.py
+code_safe/reviewer_external_reanalysis.py	26128	<HCC_PROJECT_ROOT>/code_safe/reviewer_external_reanalysis.py
+code_safe/reviewer_filter_complete_references.py	13258	<HCC_PROJECT_ROOT>/code_safe/reviewer_filter_complete_references.py
+reviewer_reanalysis/Q4_ATLAS_Karabag/Dataset801_protocol_audit.json	13560	<HCC_PROJECT_ROOT>/reviewer_reanalysis/Q4_ATLAS_Karabag/Dataset801_protocol_audit.json

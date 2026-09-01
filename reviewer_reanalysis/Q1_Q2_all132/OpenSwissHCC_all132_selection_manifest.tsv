@@ -1,0 +1,529 @@
+subject_id	case_id	phase	has_HCC	analysis_group	selected_image	arterial_candidate_rank	documented_HCC_lesions	available_selected_phase_HCC_masks	reference_complete
+sub-001	OpenSwissHCC_001	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_001_0000.nii.gz		1		
+sub-003	OpenSwissHCC_003	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_003_0000.nii.gz		1		
+sub-004	OpenSwissHCC_004	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_004_0000.nii.gz		1		
+sub-005	OpenSwissHCC_005	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_005_0000.nii.gz		1		
+sub-006	OpenSwissHCC_006	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_006_0000.nii.gz		2		
+sub-007	OpenSwissHCC_007	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_007_0000.nii.gz		3		
+sub-008	OpenSwissHCC_008	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_008_0000.nii.gz		1		
+sub-009	OpenSwissHCC_009	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_009_0000.nii.gz		1		
+sub-010	OpenSwissHCC_010	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_010_0000.nii.gz		2		
+sub-011	OpenSwissHCC_011	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_011_0000.nii.gz		1		
+sub-012	OpenSwissHCC_012	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_012_0000.nii.gz		1		
+sub-013	OpenSwissHCC_013	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_013_0000.nii.gz		1		
+sub-014	OpenSwissHCC_014	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_014_0000.nii.gz		2		
+sub-015	OpenSwissHCC_015	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_015_0000.nii.gz		3		
+sub-016	OpenSwissHCC_016	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_016_0000.nii.gz		4		
+sub-017	OpenSwissHCC_017	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_017_0000.nii.gz		4		
+sub-018	OpenSwissHCC_018	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_018_0000.nii.gz		1		
+sub-019	OpenSwissHCC_019	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_019_0000.nii.gz		4		
+sub-020	OpenSwissHCC_020	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_020_0000.nii.gz		1		
+sub-021	OpenSwissHCC_021	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_021_0000.nii.gz		1		
+sub-022	OpenSwissHCC_022	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_022_0000.nii.gz		1		
+sub-023	OpenSwissHCC_023	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_023_0000.nii.gz		2		
+sub-024	OpenSwissHCC_024	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_024_0000.nii.gz		2		
+sub-025	OpenSwissHCC_025	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_025_0000.nii.gz		1		
+sub-026	OpenSwissHCC_026	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_026_0000.nii.gz		1		
+sub-027	OpenSwissHCC_027	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_027_0000.nii.gz		1		
+sub-028	OpenSwissHCC_028	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_028_0000.nii.gz		1		
+sub-029	OpenSwissHCC_029	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_029_0000.nii.gz		1		
+sub-031	OpenSwissHCC_031	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_031_0000.nii.gz		2		
+sub-032	OpenSwissHCC_032	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_032_0000.nii.gz		1		
+sub-033	OpenSwissHCC_033	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_033_0000.nii.gz		1		
+sub-034	OpenSwissHCC_034	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_034_0000.nii.gz		2		
+sub-035	OpenSwissHCC_035	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_035_0000.nii.gz		2		
+sub-036	OpenSwissHCC_036	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_036_0000.nii.gz		1		
+sub-037	OpenSwissHCC_037	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_037_0000.nii.gz		1		
+sub-038	OpenSwissHCC_038	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_038_0000.nii.gz		2		
+sub-039	OpenSwissHCC_039	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_039_0000.nii.gz		2		
+sub-048	OpenSwissHCC_048	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_048_0000.nii.gz		1		
+sub-049	OpenSwissHCC_049	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_049_0000.nii.gz		1		
+sub-050	OpenSwissHCC_050	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_050_0000.nii.gz		1		
+sub-051	OpenSwissHCC_051	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_051_0000.nii.gz		1		
+sub-052	OpenSwissHCC_052	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_052_0000.nii.gz		3		
+sub-053	OpenSwissHCC_053	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_053_0000.nii.gz		1		
+sub-055	OpenSwissHCC_055	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_055_0000.nii.gz		2		
+sub-056	OpenSwissHCC_056	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_056_0000.nii.gz		3		
+sub-057	OpenSwissHCC_057	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_057_0000.nii.gz		1		
+sub-058	OpenSwissHCC_058	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_058_0000.nii.gz		1		
+sub-059	OpenSwissHCC_059	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_059_0000.nii.gz		1		
+sub-061	OpenSwissHCC_061	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_061_0000.nii.gz		2		
+sub-062	OpenSwissHCC_062	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_062_0000.nii.gz		1		
+sub-063	OpenSwissHCC_063	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_063_0000.nii.gz		1		
+sub-064	OpenSwissHCC_064	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_064_0000.nii.gz		1		
+sub-065	OpenSwissHCC_065	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_065_0000.nii.gz		1		
+sub-066	OpenSwissHCC_066	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_066_0000.nii.gz		2		
+sub-067	OpenSwissHCC_067	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_067_0000.nii.gz		2		
+sub-068	OpenSwissHCC_068	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_068_0000.nii.gz		1		
+sub-069	OpenSwissHCC_069	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_069_0000.nii.gz		2		
+sub-070	OpenSwissHCC_070	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_070_0000.nii.gz		1		
+sub-071	OpenSwissHCC_071	arterial	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/arterial/imagesTs/OpenSwissHCC_071_0000.nii.gz		1		
+sub-002	OpenSwissHCC_002	arterial	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-002/dyn/sub-002_acq-water_phase-arterial-TTC-1_T1w.nii.gz	1	1	1	1
+sub-030	OpenSwissHCC_030	arterial	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-030/dyn/sub-030_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	1	1	1
+sub-040	OpenSwissHCC_040	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-040/dyn/sub-040_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-041	OpenSwissHCC_041	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-041/dyn/sub-041_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-042	OpenSwissHCC_042	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-042/dyn/sub-042_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-043	OpenSwissHCC_043	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-043/dyn/sub-043_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-044	OpenSwissHCC_044	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-044/dyn/sub-044_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-045	OpenSwissHCC_045	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-045/dyn/sub-045_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-046	OpenSwissHCC_046	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-046/dyn/sub-046_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-047	OpenSwissHCC_047	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-047/dyn/sub-047_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-054	OpenSwissHCC_054	arterial	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-054/dyn/sub-054_acq-water_phase-arterial_T1w.nii.gz	0	3	3	1
+sub-060	OpenSwissHCC_060	arterial	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-060/dyn/sub-060_acq-water_phase-arterial-TTC-3_T1w.nii.gz	2	1	1	1
+sub-072	OpenSwissHCC_072	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-072/dyn/sub-072_acq-water_phase-arterial-TTC-1_T1w.nii.gz	0	0	0	
+sub-073	OpenSwissHCC_073	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-073/dyn/sub-073_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-074	OpenSwissHCC_074	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-074/dyn/sub-074_acq-water_phase-arterial-TTC-1_T1w.nii.gz	0	0	0	
+sub-075	OpenSwissHCC_075	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-075/dyn/sub-075_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-076	OpenSwissHCC_076	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-076/dyn/sub-076_acq-water_phase-arterial_T1w.nii.gz	0	0	0	
+sub-077	OpenSwissHCC_077	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-077/dyn/sub-077_acq-water_phase-arterial-TTC-1_T1w.nii.gz	0	0	0	
+sub-078	OpenSwissHCC_078	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-078/dyn/sub-078_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-079	OpenSwissHCC_079	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-079/dyn/sub-079_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-080	OpenSwissHCC_080	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-080/dyn/sub-080_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-081	OpenSwissHCC_081	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-081/dyn/sub-081_acq-water_phase-arterial_T1w.nii.gz	0	0	0	
+sub-082	OpenSwissHCC_082	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-082/dyn/sub-082_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-083	OpenSwissHCC_083	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-083/dyn/sub-083_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-084	OpenSwissHCC_084	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-084/dyn/sub-084_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-085	OpenSwissHCC_085	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-085/dyn/sub-085_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-086	OpenSwissHCC_086	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-086/dyn/sub-086_acq-water_phase-arterial-TTC-1_T1w.nii.gz	0	0	0	
+sub-087	OpenSwissHCC_087	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-087/dyn/sub-087_acq-water_phase-arterial_T1w.nii.gz	0	0	0	
+sub-088	OpenSwissHCC_088	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-088/dyn/sub-088_acq-water_phase-arterial-TTC-1_T1w.nii.gz	0	0	0	
+sub-089	OpenSwissHCC_089	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-089/dyn/sub-089_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-090	OpenSwissHCC_090	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-090/dyn/sub-090_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-091	OpenSwissHCC_091	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-091/dyn/sub-091_acq-water_phase-arterial_T1w.nii.gz	0	0	0	
+sub-092	OpenSwissHCC_092	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-092/dyn/sub-092_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-093	OpenSwissHCC_093	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-093/dyn/sub-093_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-094	OpenSwissHCC_094	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-094/dyn/sub-094_acq-water_phase-arterial_T1w.nii.gz	0	0	0	
+sub-095	OpenSwissHCC_095	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-095/dyn/sub-095_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-096	OpenSwissHCC_096	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-096/dyn/sub-096_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-097	OpenSwissHCC_097	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-097/dyn/sub-097_acq-water_phase-arterial-TTC-1_T1w.nii.gz	0	0	0	
+sub-098	OpenSwissHCC_098	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-098/dyn/sub-098_acq-water_phase-arterial-TTC-1_T1w.nii.gz	0	0	0	
+sub-099	OpenSwissHCC_099	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-099/dyn/sub-099_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-100	OpenSwissHCC_100	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-100/dyn/sub-100_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-101	OpenSwissHCC_101	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-101/dyn/sub-101_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-102	OpenSwissHCC_102	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-102/dyn/sub-102_acq-water_phase-arterial-TTC-1_T1w.nii.gz	0	0	0	
+sub-103	OpenSwissHCC_103	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-103/dyn/sub-103_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-104	OpenSwissHCC_104	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-104/dyn/sub-104_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-105	OpenSwissHCC_105	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-105/dyn/sub-105_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-106	OpenSwissHCC_106	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-106/dyn/sub-106_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-107	OpenSwissHCC_107	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-107/dyn/sub-107_acq-water_phase-arterial-TTC-1_T1w.nii.gz	0	0	0	
+sub-108	OpenSwissHCC_108	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-108/dyn/sub-108_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-109	OpenSwissHCC_109	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-109/dyn/sub-109_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-110	OpenSwissHCC_110	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-110/dyn/sub-110_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-111	OpenSwissHCC_111	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-111/dyn/sub-111_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-112	OpenSwissHCC_112	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-112/dyn/sub-112_acq-water_phase-arterial-TTC-1_T1w.nii.gz	0	0	0	
+sub-113	OpenSwissHCC_113	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-113/dyn/sub-113_acq-water_phase-arterial_T1w.nii.gz	0	0	0	
+sub-114	OpenSwissHCC_114	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-114/dyn/sub-114_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-115	OpenSwissHCC_115	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-115/dyn/sub-115_acq-water_phase-arterial-TTC-1_T1w.nii.gz	0	0	0	
+sub-116	OpenSwissHCC_116	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-116/dyn/sub-116_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-117	OpenSwissHCC_117	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-117/dyn/sub-117_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-118	OpenSwissHCC_118	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-118/dyn/sub-118_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-119	OpenSwissHCC_119	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-119/dyn/sub-119_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-120	OpenSwissHCC_120	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-120/dyn/sub-120_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-121	OpenSwissHCC_121	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-121/dyn/sub-121_acq-water_phase-arterial_T1w.nii.gz	0	0	0	
+sub-122	OpenSwissHCC_122	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-122/dyn/sub-122_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-123	OpenSwissHCC_123	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-123/dyn/sub-123_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-124	OpenSwissHCC_124	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-124/dyn/sub-124_acq-water_phase-arterial_T1w.nii.gz	0	0	0	
+sub-125	OpenSwissHCC_125	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-125/dyn/sub-125_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-126	OpenSwissHCC_126	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-126/dyn/sub-126_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-127	OpenSwissHCC_127	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-127/dyn/sub-127_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-128	OpenSwissHCC_128	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-128/dyn/sub-128_acq-water_phase-arterial_T1w.nii.gz	0	0	0	
+sub-129	OpenSwissHCC_129	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-129/dyn/sub-129_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-130	OpenSwissHCC_130	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-130/dyn/sub-130_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-131	OpenSwissHCC_131	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-131/dyn/sub-131_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-132	OpenSwissHCC_132	arterial	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-132/dyn/sub-132_acq-water_phase-arterial-TTC-2_T1w.nii.gz	0	0	0	
+sub-001	OpenSwissHCC_001	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_001_0000.nii.gz		1		
+sub-003	OpenSwissHCC_003	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_003_0000.nii.gz		1		
+sub-004	OpenSwissHCC_004	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_004_0000.nii.gz		1		
+sub-005	OpenSwissHCC_005	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_005_0000.nii.gz		1		
+sub-006	OpenSwissHCC_006	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_006_0000.nii.gz		2		
+sub-007	OpenSwissHCC_007	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_007_0000.nii.gz		3		
+sub-008	OpenSwissHCC_008	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_008_0000.nii.gz		1		
+sub-009	OpenSwissHCC_009	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_009_0000.nii.gz		1		
+sub-010	OpenSwissHCC_010	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_010_0000.nii.gz		2		
+sub-011	OpenSwissHCC_011	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_011_0000.nii.gz		1		
+sub-012	OpenSwissHCC_012	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_012_0000.nii.gz		1		
+sub-013	OpenSwissHCC_013	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_013_0000.nii.gz		1		
+sub-014	OpenSwissHCC_014	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_014_0000.nii.gz		2		
+sub-015	OpenSwissHCC_015	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_015_0000.nii.gz		3		
+sub-016	OpenSwissHCC_016	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_016_0000.nii.gz		4		
+sub-017	OpenSwissHCC_017	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_017_0000.nii.gz		4		
+sub-018	OpenSwissHCC_018	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_018_0000.nii.gz		1		
+sub-019	OpenSwissHCC_019	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_019_0000.nii.gz		4		
+sub-020	OpenSwissHCC_020	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_020_0000.nii.gz		1		
+sub-021	OpenSwissHCC_021	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_021_0000.nii.gz		1		
+sub-022	OpenSwissHCC_022	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_022_0000.nii.gz		1		
+sub-023	OpenSwissHCC_023	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_023_0000.nii.gz		2		
+sub-024	OpenSwissHCC_024	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_024_0000.nii.gz		2		
+sub-025	OpenSwissHCC_025	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_025_0000.nii.gz		1		
+sub-026	OpenSwissHCC_026	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_026_0000.nii.gz		1		
+sub-027	OpenSwissHCC_027	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_027_0000.nii.gz		1		
+sub-028	OpenSwissHCC_028	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_028_0000.nii.gz		1		
+sub-029	OpenSwissHCC_029	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_029_0000.nii.gz		1		
+sub-031	OpenSwissHCC_031	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_031_0000.nii.gz		2		
+sub-032	OpenSwissHCC_032	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_032_0000.nii.gz		1		
+sub-033	OpenSwissHCC_033	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_033_0000.nii.gz		1		
+sub-034	OpenSwissHCC_034	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_034_0000.nii.gz		2		
+sub-035	OpenSwissHCC_035	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_035_0000.nii.gz		2		
+sub-036	OpenSwissHCC_036	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_036_0000.nii.gz		1		
+sub-037	OpenSwissHCC_037	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_037_0000.nii.gz		1		
+sub-038	OpenSwissHCC_038	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_038_0000.nii.gz		2		
+sub-039	OpenSwissHCC_039	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_039_0000.nii.gz		2		
+sub-048	OpenSwissHCC_048	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_048_0000.nii.gz		1		
+sub-049	OpenSwissHCC_049	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_049_0000.nii.gz		1		
+sub-050	OpenSwissHCC_050	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_050_0000.nii.gz		1		
+sub-051	OpenSwissHCC_051	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_051_0000.nii.gz		1		
+sub-052	OpenSwissHCC_052	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_052_0000.nii.gz		3		
+sub-053	OpenSwissHCC_053	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_053_0000.nii.gz		1		
+sub-055	OpenSwissHCC_055	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_055_0000.nii.gz		2		
+sub-056	OpenSwissHCC_056	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_056_0000.nii.gz		3		
+sub-057	OpenSwissHCC_057	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_057_0000.nii.gz		1		
+sub-058	OpenSwissHCC_058	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_058_0000.nii.gz		1		
+sub-059	OpenSwissHCC_059	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_059_0000.nii.gz		1		
+sub-061	OpenSwissHCC_061	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_061_0000.nii.gz		2		
+sub-062	OpenSwissHCC_062	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_062_0000.nii.gz		1		
+sub-063	OpenSwissHCC_063	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_063_0000.nii.gz		1		
+sub-064	OpenSwissHCC_064	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_064_0000.nii.gz		1		
+sub-065	OpenSwissHCC_065	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_065_0000.nii.gz		1		
+sub-066	OpenSwissHCC_066	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_066_0000.nii.gz		2		
+sub-067	OpenSwissHCC_067	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_067_0000.nii.gz		2		
+sub-068	OpenSwissHCC_068	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_068_0000.nii.gz		1		
+sub-069	OpenSwissHCC_069	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_069_0000.nii.gz		2		
+sub-070	OpenSwissHCC_070	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_070_0000.nii.gz		1		
+sub-071	OpenSwissHCC_071	portal_venous	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/portal_venous/imagesTs/OpenSwissHCC_071_0000.nii.gz		1		
+sub-002	OpenSwissHCC_002	portal_venous	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-002/dyn/sub-002_acq-water_phase-venous_T1w.nii.gz		1	0	0
+sub-030	OpenSwissHCC_030	portal_venous	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-030/dyn/sub-030_acq-water_phase-venous_T1w.nii.gz		1	0	0
+sub-040	OpenSwissHCC_040	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-040/dyn/sub-040_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-041	OpenSwissHCC_041	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-041/dyn/sub-041_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-042	OpenSwissHCC_042	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-042/dyn/sub-042_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-043	OpenSwissHCC_043	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-043/dyn/sub-043_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-044	OpenSwissHCC_044	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-044/dyn/sub-044_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-045	OpenSwissHCC_045	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-045/dyn/sub-045_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-046	OpenSwissHCC_046	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-046/dyn/sub-046_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-047	OpenSwissHCC_047	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-047/dyn/sub-047_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-054	OpenSwissHCC_054	portal_venous	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-054/dyn/sub-054_acq-water_phase-venous_T1w.nii.gz		3	0	0
+sub-060	OpenSwissHCC_060	portal_venous	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-060/dyn/sub-060_acq-water_phase-venous_T1w.nii.gz		1	0	0
+sub-072	OpenSwissHCC_072	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-072/dyn/sub-072_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-073	OpenSwissHCC_073	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-073/dyn/sub-073_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-074	OpenSwissHCC_074	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-074/dyn/sub-074_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-075	OpenSwissHCC_075	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-075/dyn/sub-075_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-076	OpenSwissHCC_076	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-076/dyn/sub-076_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-077	OpenSwissHCC_077	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-077/dyn/sub-077_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-078	OpenSwissHCC_078	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-078/dyn/sub-078_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-079	OpenSwissHCC_079	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-079/dyn/sub-079_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-080	OpenSwissHCC_080	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-080/dyn/sub-080_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-081	OpenSwissHCC_081	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-081/dyn/sub-081_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-082	OpenSwissHCC_082	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-082/dyn/sub-082_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-083	OpenSwissHCC_083	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-083/dyn/sub-083_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-084	OpenSwissHCC_084	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-084/dyn/sub-084_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-085	OpenSwissHCC_085	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-085/dyn/sub-085_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-086	OpenSwissHCC_086	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-086/dyn/sub-086_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-087	OpenSwissHCC_087	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-087/dyn/sub-087_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-088	OpenSwissHCC_088	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-088/dyn/sub-088_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-089	OpenSwissHCC_089	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-089/dyn/sub-089_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-090	OpenSwissHCC_090	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-090/dyn/sub-090_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-091	OpenSwissHCC_091	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-091/dyn/sub-091_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-092	OpenSwissHCC_092	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-092/dyn/sub-092_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-093	OpenSwissHCC_093	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-093/dyn/sub-093_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-094	OpenSwissHCC_094	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-094/dyn/sub-094_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-095	OpenSwissHCC_095	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-095/dyn/sub-095_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-096	OpenSwissHCC_096	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-096/dyn/sub-096_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-097	OpenSwissHCC_097	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-097/dyn/sub-097_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-098	OpenSwissHCC_098	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-098/dyn/sub-098_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-099	OpenSwissHCC_099	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-099/dyn/sub-099_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-100	OpenSwissHCC_100	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-100/dyn/sub-100_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-101	OpenSwissHCC_101	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-101/dyn/sub-101_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-102	OpenSwissHCC_102	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-102/dyn/sub-102_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-103	OpenSwissHCC_103	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-103/dyn/sub-103_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-104	OpenSwissHCC_104	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-104/dyn/sub-104_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-105	OpenSwissHCC_105	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-105/dyn/sub-105_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-106	OpenSwissHCC_106	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-106/dyn/sub-106_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-107	OpenSwissHCC_107	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-107/dyn/sub-107_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-108	OpenSwissHCC_108	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-108/dyn/sub-108_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-109	OpenSwissHCC_109	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-109/dyn/sub-109_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-110	OpenSwissHCC_110	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-110/dyn/sub-110_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-111	OpenSwissHCC_111	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-111/dyn/sub-111_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-112	OpenSwissHCC_112	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-112/dyn/sub-112_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-113	OpenSwissHCC_113	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-113/dyn/sub-113_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-114	OpenSwissHCC_114	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-114/dyn/sub-114_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-115	OpenSwissHCC_115	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-115/dyn/sub-115_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-116	OpenSwissHCC_116	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-116/dyn/sub-116_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-117	OpenSwissHCC_117	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-117/dyn/sub-117_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-118	OpenSwissHCC_118	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-118/dyn/sub-118_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-119	OpenSwissHCC_119	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-119/dyn/sub-119_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-120	OpenSwissHCC_120	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-120/dyn/sub-120_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-121	OpenSwissHCC_121	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-121/dyn/sub-121_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-122	OpenSwissHCC_122	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-122/dyn/sub-122_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-123	OpenSwissHCC_123	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-123/dyn/sub-123_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-124	OpenSwissHCC_124	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-124/dyn/sub-124_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-125	OpenSwissHCC_125	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-125/dyn/sub-125_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-126	OpenSwissHCC_126	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-126/dyn/sub-126_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-127	OpenSwissHCC_127	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-127/dyn/sub-127_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-128	OpenSwissHCC_128	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-128/dyn/sub-128_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-129	OpenSwissHCC_129	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-129/dyn/sub-129_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-130	OpenSwissHCC_130	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-130/dyn/sub-130_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-131	OpenSwissHCC_131	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-131/dyn/sub-131_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-132	OpenSwissHCC_132	portal_venous	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-132/dyn/sub-132_acq-water_phase-venous_T1w.nii.gz		0	0	
+sub-001	OpenSwissHCC_001	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_001_0000.nii.gz		1		
+sub-003	OpenSwissHCC_003	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_003_0000.nii.gz		1		
+sub-004	OpenSwissHCC_004	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_004_0000.nii.gz		1		
+sub-005	OpenSwissHCC_005	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_005_0000.nii.gz		1		
+sub-006	OpenSwissHCC_006	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_006_0000.nii.gz		2		
+sub-007	OpenSwissHCC_007	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_007_0000.nii.gz		3		
+sub-008	OpenSwissHCC_008	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_008_0000.nii.gz		1		
+sub-009	OpenSwissHCC_009	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_009_0000.nii.gz		1		
+sub-010	OpenSwissHCC_010	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_010_0000.nii.gz		2		
+sub-011	OpenSwissHCC_011	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_011_0000.nii.gz		1		
+sub-012	OpenSwissHCC_012	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_012_0000.nii.gz		1		
+sub-013	OpenSwissHCC_013	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_013_0000.nii.gz		1		
+sub-014	OpenSwissHCC_014	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_014_0000.nii.gz		2		
+sub-015	OpenSwissHCC_015	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_015_0000.nii.gz		3		
+sub-016	OpenSwissHCC_016	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_016_0000.nii.gz		4		
+sub-017	OpenSwissHCC_017	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_017_0000.nii.gz		4		
+sub-018	OpenSwissHCC_018	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_018_0000.nii.gz		1		
+sub-019	OpenSwissHCC_019	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_019_0000.nii.gz		4		
+sub-020	OpenSwissHCC_020	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_020_0000.nii.gz		1		
+sub-021	OpenSwissHCC_021	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_021_0000.nii.gz		1		
+sub-022	OpenSwissHCC_022	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_022_0000.nii.gz		1		
+sub-023	OpenSwissHCC_023	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_023_0000.nii.gz		2		
+sub-024	OpenSwissHCC_024	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_024_0000.nii.gz		2		
+sub-025	OpenSwissHCC_025	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_025_0000.nii.gz		1		
+sub-026	OpenSwissHCC_026	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_026_0000.nii.gz		1		
+sub-027	OpenSwissHCC_027	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_027_0000.nii.gz		1		
+sub-028	OpenSwissHCC_028	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_028_0000.nii.gz		1		
+sub-029	OpenSwissHCC_029	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_029_0000.nii.gz		1		
+sub-031	OpenSwissHCC_031	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_031_0000.nii.gz		2		
+sub-032	OpenSwissHCC_032	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_032_0000.nii.gz		1		
+sub-033	OpenSwissHCC_033	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_033_0000.nii.gz		1		
+sub-034	OpenSwissHCC_034	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_034_0000.nii.gz		2		
+sub-035	OpenSwissHCC_035	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_035_0000.nii.gz		2		
+sub-036	OpenSwissHCC_036	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_036_0000.nii.gz		1		
+sub-037	OpenSwissHCC_037	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_037_0000.nii.gz		1		
+sub-038	OpenSwissHCC_038	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_038_0000.nii.gz		2		
+sub-039	OpenSwissHCC_039	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_039_0000.nii.gz		2		
+sub-048	OpenSwissHCC_048	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_048_0000.nii.gz		1		
+sub-049	OpenSwissHCC_049	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_049_0000.nii.gz		1		
+sub-050	OpenSwissHCC_050	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_050_0000.nii.gz		1		
+sub-051	OpenSwissHCC_051	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_051_0000.nii.gz		1		
+sub-052	OpenSwissHCC_052	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_052_0000.nii.gz		3		
+sub-053	OpenSwissHCC_053	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_053_0000.nii.gz		1		
+sub-055	OpenSwissHCC_055	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_055_0000.nii.gz		2		
+sub-056	OpenSwissHCC_056	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_056_0000.nii.gz		3		
+sub-057	OpenSwissHCC_057	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_057_0000.nii.gz		1		
+sub-058	OpenSwissHCC_058	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_058_0000.nii.gz		1		
+sub-059	OpenSwissHCC_059	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_059_0000.nii.gz		1		
+sub-061	OpenSwissHCC_061	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_061_0000.nii.gz		2		
+sub-062	OpenSwissHCC_062	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_062_0000.nii.gz		1		
+sub-063	OpenSwissHCC_063	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_063_0000.nii.gz		1		
+sub-064	OpenSwissHCC_064	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_064_0000.nii.gz		1		
+sub-065	OpenSwissHCC_065	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_065_0000.nii.gz		1		
+sub-066	OpenSwissHCC_066	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_066_0000.nii.gz		2		
+sub-067	OpenSwissHCC_067	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_067_0000.nii.gz		2		
+sub-068	OpenSwissHCC_068	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_068_0000.nii.gz		1		
+sub-069	OpenSwissHCC_069	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_069_0000.nii.gz		2		
+sub-070	OpenSwissHCC_070	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_070_0000.nii.gz		1		
+sub-071	OpenSwissHCC_071	delayed	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/delayed/imagesTs/OpenSwissHCC_071_0000.nii.gz		1		
+sub-002	OpenSwissHCC_002	delayed	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-002/dyn/sub-002_acq-water_phase-delayed_T1w.nii.gz		1	0	0
+sub-030	OpenSwissHCC_030	delayed	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-030/dyn/sub-030_acq-water_phase-delayed_T1w.nii.gz		1	1	1
+sub-040	OpenSwissHCC_040	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-040/dyn/sub-040_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-041	OpenSwissHCC_041	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-041/dyn/sub-041_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-042	OpenSwissHCC_042	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-042/dyn/sub-042_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-043	OpenSwissHCC_043	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-043/dyn/sub-043_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-044	OpenSwissHCC_044	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-044/dyn/sub-044_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-045	OpenSwissHCC_045	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-045/dyn/sub-045_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-046	OpenSwissHCC_046	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-046/dyn/sub-046_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-047	OpenSwissHCC_047	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-047/dyn/sub-047_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-054	OpenSwissHCC_054	delayed	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-054/dyn/sub-054_acq-water_phase-delayed_T1w.nii.gz		3	3	1
+sub-060	OpenSwissHCC_060	delayed	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-060/dyn/sub-060_acq-water_phase-delayed_T1w.nii.gz		1	0	0
+sub-072	OpenSwissHCC_072	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-072/dyn/sub-072_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-073	OpenSwissHCC_073	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-073/dyn/sub-073_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-074	OpenSwissHCC_074	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-074/dyn/sub-074_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-075	OpenSwissHCC_075	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-075/dyn/sub-075_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-076	OpenSwissHCC_076	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-076/dyn/sub-076_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-077	OpenSwissHCC_077	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-077/dyn/sub-077_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-078	OpenSwissHCC_078	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-078/dyn/sub-078_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-079	OpenSwissHCC_079	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-079/dyn/sub-079_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-080	OpenSwissHCC_080	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-080/dyn/sub-080_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-081	OpenSwissHCC_081	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-081/dyn/sub-081_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-082	OpenSwissHCC_082	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-082/dyn/sub-082_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-083	OpenSwissHCC_083	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-083/dyn/sub-083_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-084	OpenSwissHCC_084	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-084/dyn/sub-084_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-085	OpenSwissHCC_085	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-085/dyn/sub-085_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-086	OpenSwissHCC_086	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-086/dyn/sub-086_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-087	OpenSwissHCC_087	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-087/dyn/sub-087_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-088	OpenSwissHCC_088	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-088/dyn/sub-088_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-089	OpenSwissHCC_089	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-089/dyn/sub-089_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-090	OpenSwissHCC_090	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-090/dyn/sub-090_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-091	OpenSwissHCC_091	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-091/dyn/sub-091_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-092	OpenSwissHCC_092	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-092/dyn/sub-092_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-093	OpenSwissHCC_093	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-093/dyn/sub-093_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-094	OpenSwissHCC_094	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-094/dyn/sub-094_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-095	OpenSwissHCC_095	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-095/dyn/sub-095_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-096	OpenSwissHCC_096	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-096/dyn/sub-096_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-097	OpenSwissHCC_097	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-097/dyn/sub-097_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-098	OpenSwissHCC_098	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-098/dyn/sub-098_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-099	OpenSwissHCC_099	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-099/dyn/sub-099_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-100	OpenSwissHCC_100	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-100/dyn/sub-100_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-101	OpenSwissHCC_101	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-101/dyn/sub-101_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-102	OpenSwissHCC_102	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-102/dyn/sub-102_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-103	OpenSwissHCC_103	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-103/dyn/sub-103_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-104	OpenSwissHCC_104	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-104/dyn/sub-104_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-105	OpenSwissHCC_105	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-105/dyn/sub-105_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-106	OpenSwissHCC_106	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-106/dyn/sub-106_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-107	OpenSwissHCC_107	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-107/dyn/sub-107_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-108	OpenSwissHCC_108	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-108/dyn/sub-108_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-109	OpenSwissHCC_109	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-109/dyn/sub-109_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-110	OpenSwissHCC_110	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-110/dyn/sub-110_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-111	OpenSwissHCC_111	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-111/dyn/sub-111_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-112	OpenSwissHCC_112	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-112/dyn/sub-112_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-113	OpenSwissHCC_113	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-113/dyn/sub-113_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-114	OpenSwissHCC_114	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-114/dyn/sub-114_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-115	OpenSwissHCC_115	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-115/dyn/sub-115_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-116	OpenSwissHCC_116	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-116/dyn/sub-116_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-117	OpenSwissHCC_117	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-117/dyn/sub-117_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-118	OpenSwissHCC_118	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-118/dyn/sub-118_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-119	OpenSwissHCC_119	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-119/dyn/sub-119_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-120	OpenSwissHCC_120	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-120/dyn/sub-120_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-121	OpenSwissHCC_121	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-121/dyn/sub-121_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-122	OpenSwissHCC_122	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-122/dyn/sub-122_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-123	OpenSwissHCC_123	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-123/dyn/sub-123_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-124	OpenSwissHCC_124	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-124/dyn/sub-124_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-125	OpenSwissHCC_125	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-125/dyn/sub-125_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-126	OpenSwissHCC_126	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-126/dyn/sub-126_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-127	OpenSwissHCC_127	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-127/dyn/sub-127_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-128	OpenSwissHCC_128	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-128/dyn/sub-128_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-129	OpenSwissHCC_129	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-129/dyn/sub-129_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-130	OpenSwissHCC_130	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-130/dyn/sub-130_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-131	OpenSwissHCC_131	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-131/dyn/sub-131_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-132	OpenSwissHCC_132	delayed	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-132/dyn/sub-132_acq-water_phase-delayed_T1w.nii.gz		0	0	
+sub-001	OpenSwissHCC_001	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_001_0000.nii.gz		1		
+sub-003	OpenSwissHCC_003	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_003_0000.nii.gz		1		
+sub-004	OpenSwissHCC_004	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_004_0000.nii.gz		1		
+sub-005	OpenSwissHCC_005	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_005_0000.nii.gz		1		
+sub-006	OpenSwissHCC_006	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_006_0000.nii.gz		2		
+sub-007	OpenSwissHCC_007	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_007_0000.nii.gz		3		
+sub-008	OpenSwissHCC_008	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_008_0000.nii.gz		1		
+sub-009	OpenSwissHCC_009	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_009_0000.nii.gz		1		
+sub-010	OpenSwissHCC_010	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_010_0000.nii.gz		2		
+sub-011	OpenSwissHCC_011	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_011_0000.nii.gz		1		
+sub-012	OpenSwissHCC_012	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_012_0000.nii.gz		1		
+sub-013	OpenSwissHCC_013	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_013_0000.nii.gz		1		
+sub-014	OpenSwissHCC_014	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_014_0000.nii.gz		2		
+sub-015	OpenSwissHCC_015	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_015_0000.nii.gz		3		
+sub-016	OpenSwissHCC_016	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_016_0000.nii.gz		4		
+sub-017	OpenSwissHCC_017	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_017_0000.nii.gz		4		
+sub-018	OpenSwissHCC_018	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_018_0000.nii.gz		1		
+sub-019	OpenSwissHCC_019	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_019_0000.nii.gz		4		
+sub-020	OpenSwissHCC_020	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_020_0000.nii.gz		1		
+sub-021	OpenSwissHCC_021	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_021_0000.nii.gz		1		
+sub-022	OpenSwissHCC_022	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_022_0000.nii.gz		1		
+sub-023	OpenSwissHCC_023	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_023_0000.nii.gz		2		
+sub-024	OpenSwissHCC_024	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_024_0000.nii.gz		2		
+sub-025	OpenSwissHCC_025	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_025_0000.nii.gz		1		
+sub-026	OpenSwissHCC_026	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_026_0000.nii.gz		1		
+sub-027	OpenSwissHCC_027	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_027_0000.nii.gz		1		
+sub-028	OpenSwissHCC_028	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_028_0000.nii.gz		1		
+sub-029	OpenSwissHCC_029	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_029_0000.nii.gz		1		
+sub-031	OpenSwissHCC_031	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_031_0000.nii.gz		2		
+sub-032	OpenSwissHCC_032	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_032_0000.nii.gz		1		
+sub-033	OpenSwissHCC_033	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_033_0000.nii.gz		1		
+sub-034	OpenSwissHCC_034	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_034_0000.nii.gz		2		
+sub-035	OpenSwissHCC_035	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_035_0000.nii.gz		2		
+sub-036	OpenSwissHCC_036	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_036_0000.nii.gz		1		
+sub-037	OpenSwissHCC_037	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_037_0000.nii.gz		1		
+sub-038	OpenSwissHCC_038	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_038_0000.nii.gz		2		
+sub-039	OpenSwissHCC_039	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_039_0000.nii.gz		2		
+sub-048	OpenSwissHCC_048	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_048_0000.nii.gz		1		
+sub-049	OpenSwissHCC_049	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_049_0000.nii.gz		1		
+sub-050	OpenSwissHCC_050	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_050_0000.nii.gz		1		
+sub-051	OpenSwissHCC_051	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_051_0000.nii.gz		1		
+sub-052	OpenSwissHCC_052	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_052_0000.nii.gz		3		
+sub-053	OpenSwissHCC_053	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_053_0000.nii.gz		1		
+sub-055	OpenSwissHCC_055	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_055_0000.nii.gz		2		
+sub-056	OpenSwissHCC_056	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_056_0000.nii.gz		3		
+sub-057	OpenSwissHCC_057	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_057_0000.nii.gz		1		
+sub-058	OpenSwissHCC_058	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_058_0000.nii.gz		1		
+sub-059	OpenSwissHCC_059	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_059_0000.nii.gz		1		
+sub-061	OpenSwissHCC_061	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_061_0000.nii.gz		2		
+sub-062	OpenSwissHCC_062	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_062_0000.nii.gz		1		
+sub-063	OpenSwissHCC_063	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_063_0000.nii.gz		1		
+sub-064	OpenSwissHCC_064	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_064_0000.nii.gz		1		
+sub-065	OpenSwissHCC_065	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_065_0000.nii.gz		1		
+sub-066	OpenSwissHCC_066	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_066_0000.nii.gz		2		
+sub-067	OpenSwissHCC_067	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_067_0000.nii.gz		2		
+sub-068	OpenSwissHCC_068	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_068_0000.nii.gz		1		
+sub-069	OpenSwissHCC_069	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_069_0000.nii.gz		2		
+sub-070	OpenSwissHCC_070	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_070_0000.nii.gz		1		
+sub-071	OpenSwissHCC_071	native	1	original_59	<HCC_PHASEWISE_WORK>/OpenSwissHCC/native/imagesTs/OpenSwissHCC_071_0000.nii.gz		1		
+sub-002	OpenSwissHCC_002	native	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-002/dyn/sub-002_acq-water_phase-native_T1w.nii.gz		1	1	1
+sub-030	OpenSwissHCC_030	native	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-030/dyn/sub-030_acq-water_phase-native_T1w.nii.gz		1	1	1
+sub-040	OpenSwissHCC_040	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-040/dyn/sub-040_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-041	OpenSwissHCC_041	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-041/dyn/sub-041_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-042	OpenSwissHCC_042	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-042/dyn/sub-042_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-043	OpenSwissHCC_043	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-043/dyn/sub-043_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-044	OpenSwissHCC_044	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-044/dyn/sub-044_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-045	OpenSwissHCC_045	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-045/dyn/sub-045_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-046	OpenSwissHCC_046	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-046/dyn/sub-046_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-047	OpenSwissHCC_047	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-047/dyn/sub-047_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-054	OpenSwissHCC_054	native	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-054/dyn/sub-054_acq-water_phase-native_T1w.nii.gz		3	3	1
+sub-060	OpenSwissHCC_060	native	1	new_positive	<HCC_PROJECT_ROOT>/images/sub-060/dyn/sub-060_acq-water_phase-native_T1w.nii.gz		1	0	0
+sub-072	OpenSwissHCC_072	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-072/dyn/sub-072_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-073	OpenSwissHCC_073	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-073/dyn/sub-073_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-074	OpenSwissHCC_074	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-074/dyn/sub-074_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-075	OpenSwissHCC_075	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-075/dyn/sub-075_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-076	OpenSwissHCC_076	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-076/dyn/sub-076_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-077	OpenSwissHCC_077	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-077/dyn/sub-077_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-078	OpenSwissHCC_078	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-078/dyn/sub-078_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-079	OpenSwissHCC_079	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-079/dyn/sub-079_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-080	OpenSwissHCC_080	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-080/dyn/sub-080_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-081	OpenSwissHCC_081	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-081/dyn/sub-081_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-082	OpenSwissHCC_082	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-082/dyn/sub-082_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-083	OpenSwissHCC_083	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-083/dyn/sub-083_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-084	OpenSwissHCC_084	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-084/dyn/sub-084_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-085	OpenSwissHCC_085	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-085/dyn/sub-085_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-086	OpenSwissHCC_086	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-086/dyn/sub-086_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-087	OpenSwissHCC_087	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-087/dyn/sub-087_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-088	OpenSwissHCC_088	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-088/dyn/sub-088_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-089	OpenSwissHCC_089	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-089/dyn/sub-089_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-090	OpenSwissHCC_090	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-090/dyn/sub-090_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-091	OpenSwissHCC_091	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-091/dyn/sub-091_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-092	OpenSwissHCC_092	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-092/dyn/sub-092_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-093	OpenSwissHCC_093	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-093/dyn/sub-093_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-094	OpenSwissHCC_094	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-094/dyn/sub-094_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-095	OpenSwissHCC_095	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-095/dyn/sub-095_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-096	OpenSwissHCC_096	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-096/dyn/sub-096_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-097	OpenSwissHCC_097	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-097/dyn/sub-097_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-098	OpenSwissHCC_098	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-098/dyn/sub-098_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-099	OpenSwissHCC_099	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-099/dyn/sub-099_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-100	OpenSwissHCC_100	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-100/dyn/sub-100_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-101	OpenSwissHCC_101	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-101/dyn/sub-101_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-102	OpenSwissHCC_102	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-102/dyn/sub-102_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-103	OpenSwissHCC_103	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-103/dyn/sub-103_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-104	OpenSwissHCC_104	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-104/dyn/sub-104_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-105	OpenSwissHCC_105	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-105/dyn/sub-105_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-106	OpenSwissHCC_106	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-106/dyn/sub-106_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-107	OpenSwissHCC_107	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-107/dyn/sub-107_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-108	OpenSwissHCC_108	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-108/dyn/sub-108_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-109	OpenSwissHCC_109	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-109/dyn/sub-109_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-110	OpenSwissHCC_110	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-110/dyn/sub-110_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-111	OpenSwissHCC_111	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-111/dyn/sub-111_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-112	OpenSwissHCC_112	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-112/dyn/sub-112_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-113	OpenSwissHCC_113	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-113/dyn/sub-113_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-114	OpenSwissHCC_114	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-114/dyn/sub-114_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-115	OpenSwissHCC_115	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-115/dyn/sub-115_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-116	OpenSwissHCC_116	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-116/dyn/sub-116_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-117	OpenSwissHCC_117	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-117/dyn/sub-117_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-118	OpenSwissHCC_118	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-118/dyn/sub-118_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-119	OpenSwissHCC_119	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-119/dyn/sub-119_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-120	OpenSwissHCC_120	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-120/dyn/sub-120_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-121	OpenSwissHCC_121	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-121/dyn/sub-121_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-122	OpenSwissHCC_122	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-122/dyn/sub-122_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-123	OpenSwissHCC_123	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-123/dyn/sub-123_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-124	OpenSwissHCC_124	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-124/dyn/sub-124_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-125	OpenSwissHCC_125	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-125/dyn/sub-125_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-126	OpenSwissHCC_126	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-126/dyn/sub-126_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-127	OpenSwissHCC_127	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-127/dyn/sub-127_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-128	OpenSwissHCC_128	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-128/dyn/sub-128_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-129	OpenSwissHCC_129	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-129/dyn/sub-129_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-130	OpenSwissHCC_130	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-130/dyn/sub-130_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-131	OpenSwissHCC_131	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-131/dyn/sub-131_acq-water_phase-native_T1w.nii.gz		0	0	
+sub-132	OpenSwissHCC_132	native	0	new_negative	<HCC_PROJECT_ROOT>/images/sub-132/dyn/sub-132_acq-water_phase-native_T1w.nii.gz		0	0	

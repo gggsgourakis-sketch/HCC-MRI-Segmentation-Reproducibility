@@ -1,0 +1,12 @@
+{
+    "channel_names": {
+        "0": "T1w_venous"
+    },
+    "labels": {
+        "background": 0,
+        "HCC": 1
+    },
+    "numTraining": 132,
+    "file_ending": ".nii.gz",
+    "overwrite_image_reader_writer": "SimpleITKIO"
+}

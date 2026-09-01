@@ -1,0 +1,218 @@
+{
+    "foreground_mean": {
+        "Dice": 0.506159007593895,
+        "FN": 30736.333333333332,
+        "FP": 29033.666666666668,
+        "IoU": 0.414501327467915,
+        "TN": 8884839.083333334,
+        "TP": 53108.25,
+        "n_pred": 82141.91666666667,
+        "n_ref": 83844.58333333333
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.506159007593895,
+            "FN": 30736.333333333332,
+            "FP": 29033.666666666668,
+            "IoU": 0.414501327467915,
+            "TN": 8884839.083333334,
+            "TP": 53108.25,
+            "n_pred": 82141.91666666667,
+            "n_ref": 83844.58333333333
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.00028759047116905527,
+                    "FN": 41714,
+                    "FP": 0,
+                    "IoU": 0.00014381591562799616,
+                    "TN": 7730440,
+                    "TP": 6,
+                    "n_pred": 6,
+                    "n_ref": 41720
+                }
+            },
+            "prediction_file": "<NNUNET_RESULTS>/Dataset801_HCCMRI_ATLAS/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/HCCMRIATLAS_0008.nii.gz",
+            "reference_file": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/gt_segmentations/HCCMRIATLAS_0008.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 10690,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 9205310,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 10690
+                }
+            },
+            "prediction_file": "<NNUNET_RESULTS>/Dataset801_HCCMRI_ATLAS/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/HCCMRIATLAS_0010.nii.gz",
+            "reference_file": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/gt_segmentations/HCCMRIATLAS_0010.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.36146495337326184,
+                    "FN": 188025,
+                    "FP": 293546,
+                    "IoU": 0.22060251571512732,
+                    "TN": 15962732,
+                    "TP": 136305,
+                    "n_pred": 429851,
+                    "n_ref": 324330
+                }
+            },
+            "prediction_file": "<NNUNET_RESULTS>/Dataset801_HCCMRI_ATLAS/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/HCCMRIATLAS_0011.nii.gz",
+            "reference_file": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/gt_segmentations/HCCMRIATLAS_0011.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8113827422939415,
+                    "FN": 10261,
+                    "FP": 9259,
+                    "IoU": 0.6826274286643362,
+                    "TN": 5928895,
+                    "TP": 41985,
+                    "n_pred": 51244,
+                    "n_ref": 52246
+                }
+            },
+            "prediction_file": "<NNUNET_RESULTS>/Dataset801_HCCMRI_ATLAS/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/HCCMRIATLAS_0012.nii.gz",
+            "reference_file": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/gt_segmentations/HCCMRIATLAS_0012.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8485283081797715,
+                    "FN": 5637,
+                    "FP": 3446,
+                    "IoU": 0.7369076584405052,
+                    "TN": 5955876,
+                    "TP": 25441,
+                    "n_pred": 28887,
+                    "n_ref": 31078
+                }
+            },
+            "prediction_file": "<NNUNET_RESULTS>/Dataset801_HCCMRI_ATLAS/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/HCCMRIATLAS_0014.nii.gz",
+            "reference_file": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/gt_segmentations/HCCMRIATLAS_0014.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.3720584592519197,
+                    "FN": 2166,
+                    "FP": 369,
+                    "IoU": 0.2285453438831406,
+                    "TN": 5987114,
+                    "TP": 751,
+                    "n_pred": 1120,
+                    "n_ref": 2917
+                }
+            },
+            "prediction_file": "<NNUNET_RESULTS>/Dataset801_HCCMRI_ATLAS/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/HCCMRIATLAS_0017.nii.gz",
+            "reference_file": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/gt_segmentations/HCCMRIATLAS_0017.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9081675054249966,
+                    "FN": 1679,
+                    "FP": 310,
+                    "IoU": 0.8317828146143437,
+                    "TN": 5978576,
+                    "TP": 9835,
+                    "n_pred": 10145,
+                    "n_ref": 11514
+                }
+            },
+            "prediction_file": "<NNUNET_RESULTS>/Dataset801_HCCMRI_ATLAS/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/HCCMRIATLAS_0018.nii.gz",
+            "reference_file": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/gt_segmentations/HCCMRIATLAS_0018.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.35797679543922917,
+                    "FN": 33018,
+                    "FP": 2231,
+                    "IoU": 0.218009583814003,
+                    "TN": 5945324,
+                    "TP": 9827,
+                    "n_pred": 12058,
+                    "n_ref": 42845
+                }
+            },
+            "prediction_file": "<NNUNET_RESULTS>/Dataset801_HCCMRI_ATLAS/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/HCCMRIATLAS_0019.nii.gz",
+            "reference_file": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/gt_segmentations/HCCMRIATLAS_0019.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9172305499023751,
+                    "FN": 27602,
+                    "FP": 36494,
+                    "IoU": 0.8471152837011382,
+                    "TN": 5980756,
+                    "TP": 355148,
+                    "n_pred": 391642,
+                    "n_ref": 382750
+                }
+            },
+            "prediction_file": "<NNUNET_RESULTS>/Dataset801_HCCMRI_ATLAS/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/HCCMRIATLAS_0024.nii.gz",
+            "reference_file": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/gt_segmentations/HCCMRIATLAS_0024.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8260841024563799,
+                    "FN": 12084,
+                    "FP": 1163,
+                    "IoU": 0.7036995615997137,
+                    "TN": 12931420,
+                    "TP": 31461,
+                    "n_pred": 32624,
+                    "n_ref": 43545
+                }
+            },
+            "prediction_file": "<NNUNET_RESULTS>/Dataset801_HCCMRI_ATLAS/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/HCCMRIATLAS_0028.nii.gz",
+            "reference_file": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/gt_segmentations/HCCMRIATLAS_0028.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6707270843336955,
+                    "FN": 24472,
+                    "FP": 1586,
+                    "IoU": 0.5045819232670443,
+                    "TN": 9163402,
+                    "TP": 26540,
+                    "n_pred": 28126,
+                    "n_ref": 51012
+                }
+            },
+            "prediction_file": "<NNUNET_RESULTS>/Dataset801_HCCMRI_ATLAS/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/HCCMRIATLAS_0039.nii.gz",
+            "reference_file": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/gt_segmentations/HCCMRIATLAS_0039.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 11488,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 15848224,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 11488
+                }
+            },
+            "prediction_file": "<NNUNET_RESULTS>/Dataset801_HCCMRI_ATLAS/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/HCCMRIATLAS_0055.nii.gz",
+            "reference_file": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/gt_segmentations/HCCMRIATLAS_0055.nii.gz"
+        }
+    ]
+}

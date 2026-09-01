@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated manuscript and this archived release."
+title: "HCC MRI Segmentation Reproducibility Package"
+version: "1.0.0"
+date-released: "2026-09-01"
+type: software
+
+authors:
+  - family-names: "Sgourakis"
+    given-names: "George"
+    orcid: "https://orcid.org/0000-0002-7900-2003"
+
+abstract: >
+  Reproducibility package accompanying an HCC MRI segmentation study using
+  five-fold ATLAS benchmarking, phase-wise external validation, and a paired
+  venous-only versus arterial-plus-venous OpenSwissHCC ablation. The package
+  contains code, nnU-Net configurations and folds, case-level metrics,
+  reviewer-requested reanalyses, provenance manifests, and primary trained
+  checkpoints.
+
+keywords:
+  - hepatocellular carcinoma
+  - MRI
+  - segmentation
+  - nnU-Net
+  - deep learning
+  - external validation
+  - reproducibility
+
+repository-code: "https://github.com/gggsgourakis-sketch/HCC-MRI-Segmentation-Reproducibility"
+doi: "TO_BE_INSERTED_AFTER_ZENODO_DOI_RESERVATION"

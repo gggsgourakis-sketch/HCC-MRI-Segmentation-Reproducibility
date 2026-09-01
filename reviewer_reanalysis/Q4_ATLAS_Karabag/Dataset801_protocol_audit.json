@@ -1,0 +1,260 @@
+[
+  {
+    "section": "dataset",
+    "field": "dataset_name",
+    "value": "HCCMRI_ATLAS",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/dataset.json"
+  },
+  {
+    "section": "dataset",
+    "field": "numTraining",
+    "value": "60",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/dataset.json"
+  },
+  {
+    "section": "dataset",
+    "field": "channel_names",
+    "value": "{\"0\": \"MRI\"}",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/dataset.json"
+  },
+  {
+    "section": "dataset",
+    "field": "labels",
+    "value": "{\"background\": 0, \"tumour\": 1}",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/dataset.json"
+  },
+  {
+    "section": "dataset",
+    "field": "file_ending",
+    "value": ".nii.gz",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/dataset.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "data_identifier",
+    "value": "nnUNetPlans_3d_fullres",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "preprocessor_name",
+    "value": "DefaultPreprocessor",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "batch_size",
+    "value": "2",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "patch_size",
+    "value": "[48, 192, 224]",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "median_image_size_in_voxels",
+    "value": "[72.0, 310.0, 383.0]",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "spacing",
+    "value": "[2.9999969005584717, 1.0416666269302368, 1.0416666269302368]",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "normalization_schemes",
+    "value": "[\"ZScoreNormalization\"]",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "use_mask_for_norm",
+    "value": "[false]",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "resampling_fn_data",
+    "value": "resample_data_or_seg_to_shape",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "resampling_fn_seg",
+    "value": "resample_data_or_seg_to_shape",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "resampling_fn_data_kwargs",
+    "value": "{\"force_separate_z\": null, \"is_seg\": false, \"order\": 3, \"order_z\": 0}",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "resampling_fn_seg_kwargs",
+    "value": "{\"force_separate_z\": null, \"is_seg\": true, \"order\": 1, \"order_z\": 0}",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "resampling_fn_probabilities",
+    "value": "resample_data_or_seg_to_shape",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "resampling_fn_probabilities_kwargs",
+    "value": "{\"force_separate_z\": null, \"is_seg\": false, \"order\": 1, \"order_z\": 0}",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "architecture",
+    "value": "{\"_kw_requires_import\": [\"conv_op\", \"norm_op\", \"dropout_op\", \"nonlin\"], \"arch_kwargs\": {\"conv_bias\": true, \"conv_op\": \"torch.nn.modules.conv.Conv3d\", \"dropout_op\": null, \"dropout_op_kwargs\": null, \"features_per_stage\": [32, 64, 128, 256, 320, 320], \"kernel_sizes\": [[1, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3]], \"n_conv_per_stage\": [2, 2, 2, 2, 2, 2], \"n_conv_per_stage_decoder\": [2, 2, 2, 2, 2], \"n_stages\": 6, \"nonlin\": \"torch.nn.LeakyReLU\", \"nonlin_kwargs\": {\"inplace\": true}, \"norm_op\": \"torch.nn.modules.instancenorm.InstanceNorm3d\", \"norm_op_kwargs\": {\"affine\": true, \"eps\": 1e-05}, \"strides\": [[1, 1, 1], [1, 2, 2], [2, 2, 2], [2, 2, 2], [2, 2, 2], [1, 2, 2]]}, \"network_class_name\": \"dynamic_network_architectures.architectures.unet.PlainConvUNet\"}",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "3d_fullres_plan",
+    "field": "batch_dice",
+    "value": "False",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "global_plan",
+    "field": "dataset_name",
+    "value": "Dataset801_HCCMRI_ATLAS",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "global_plan",
+    "field": "plans_name",
+    "value": "nnUNetPlans",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "global_plan",
+    "field": "original_median_spacing_after_transp",
+    "value": "[2.9999969005584717, 1.0416666269302368, 1.0416666269302368]",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "global_plan",
+    "field": "original_median_shape_after_transp",
+    "value": "[80, 300, 383]",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "global_plan",
+    "field": "transpose_forward",
+    "value": "[0, 1, 2]",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "global_plan",
+    "field": "transpose_backward",
+    "value": "[0, 1, 2]",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "global_plan",
+    "field": "image_reader_writer",
+    "value": "SimpleITKIO",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/nnUNetPlans.json"
+  },
+  {
+    "section": "dataset_fingerprint",
+    "field": "spacings",
+    "value": "[[2.3000030517578125, 0.78125, 0.78125], [2.4999961853027344, 0.9375, 0.9375], [3.0, 1.0416666269302368, 1.0416666269302368], [4.000006198883057, 0.87890625, 0.87890625], [2.0, 0.7421875, 0.7421875], [3.0000007152557373, 1.25, 1.25], [2.5, 0.87890625, 0.87890625], [3.0, 1.1363636255264282, 1.1363636255264282], [3.0000059604644775, 1.25, 1.25], [3.0, 1.0416666269302368, 1.0416666269302368], [2.5, 0.8203125, 0.8203125], [2.9999969005584717, 1.25, 1.25], [2.3000030517578125, 0.7813000082969666, 0.7813000082969666], [3.0000040531158447, 1.1875, 1.1875], [3.000004529953003, 1.3125, 1.3125], [2.5, 0.9375, 0.9375], [3.000004529953003, 1.40625, 1.40625], [3.0000007152557373, 1.1875, 1.1875], [3.5, 1.25, 1.25], [2.100093126296997, 0.8593999743461609, 0.8593999743461609], [2.5000038146972656, 0.9375, 0.9375], [2.1000022888183594, 0.9765625, 0.9765625], [2.5, 0.9375, 0.9375], [3.0000007152557373, 1.1875, 1.1875], [2.2000017166137695, 0.8202999830245972, 0.8202999830245972], [2.0, 0.9375, 0.9375], [3.9999983310699463, 0.8203125, 0.8203125], [2.0, 0.68359375, 0.68359375], [3.000004529953003, 1.1875, 1.1875], [3.000004529953003, 1.1875, 1.1875], [2.0, 0.8398000001907349, 0.8398000001907349], [3.000004529953003, 1.1875, 1.1875], [2.5, 0.9375, 0.9375], [2.6000025272369385, 1.1875, 1.1875], [3.000004529953003, 1.25, 1.25], [2.9999969005584717, 1.1875, 1.1875], [3.5, 1.25, 1.25], [2.9999969005584717, 1.171875, 1.171875], [3.0, 1.0416666269302368, 1.0416666269302368], [2.0, 0.76171875, 0.76171875], [2.5, 0.9375, 0.9375], [3.5, 1.25, 1.25], [2.4999961853027344, 0.9375, 0.9375], [3.0000040531158447, 0.9375, 0.9375], [3.0, 1.1875, 1.1875], [3.0000040531158447, 0.9375, 0.9375], [3.0000007152557373, 1.1875, 1.1875], [2.1999969482421875, 0.8593999743461609, 0.8593999743461609], [2.9999892711639404, 1.3125, 1.3125], [3.000004529953003, 1.1875, 1.1875], [2.2999916076660156, 0.8593999743461609, 0.8593999743461609], [2.9999892711639404, 1.0416666269302368, 1.0416666269302368], [3.000004529953003, 1.1875, 1.1875], [2.9999969005584717, 1.1875, 1.1875], [2.0, 0.91796875, 0.91796875], [2.200078248977661, 0.8984000086784363, 0.8984000086784363], [3.000004529953003, 1.375, 1.375], [3.5, 1.25, 1.25], [3.0000007152557373, 1.1458333730697632, 1.1458333730697632], [2.9999969005584717, 1.3125, 1.3125]]",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/dataset_fingerprint.json"
+  },
+  {
+    "section": "dataset_fingerprint",
+    "field": "shapes_after_crop",
+    "value": "[[88, 368, 511], [80, 358, 446], [80, 300, 383], [44, 384, 511], [96, 352, 511], [72, 258, 319], [80, 352, 511], [80, 276, 351], [72, 259, 319], [80, 300, 383], [88, 368, 511], [72, 257, 319], [96, 460, 503], [72, 258, 319], [80, 257, 319], [88, 358, 446], [72, 259, 318], [72, 258, 319], [72, 259, 319], [96, 409, 497], [88, 358, 444], [96, 272, 511], [80, 345, 444], [80, 248, 319], [96, 456, 499], [88, 352, 511], [48, 383, 511], [72, 352, 511], [64, 258, 319], [72, 258, 319], [112, 431, 495], [72, 258, 319], [80, 357, 443], [72, 259, 319], [72, 256, 319], [72, 267, 319], [72, 258, 319], [72, 299, 383], [80, 300, 383], [80, 384, 511], [80, 358, 445], [72, 258, 319], [88, 359, 446], [80, 358, 447], [72, 258, 319], [72, 359, 447], [72, 257, 319], [136, 427, 504], [72, 257, 319], [72, 259, 319], [92, 410, 497], [80, 324, 383], [72, 255, 319], [72, 258, 319], [88, 352, 511], [96, 410, 504], [80, 278, 319], [72, 258, 319], [56, 286, 383], [72, 256, 319]]",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/dataset_fingerprint.json"
+  },
+  {
+    "section": "dataset_fingerprint",
+    "field": "foreground_intensity_properties_per_channel",
+    "value": "{\"0\": {\"max\": 2222.0, \"mean\": 381.66290283203125, \"median\": 235.0, \"min\": 0.0, \"percentile_00_5\": 68.0, \"percentile_99_5\": 1446.0, \"std\": 322.12481689453125}}",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/dataset_fingerprint.json"
+  },
+  {
+    "section": "cross_validation",
+    "field": "number_of_folds",
+    "value": "5",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/splits_final.json"
+  },
+  {
+    "section": "cross_validation",
+    "field": "fold_sizes",
+    "value": "[{\"fold\": 0, \"n_train\": 48, \"n_validation\": 12}, {\"fold\": 1, \"n_train\": 48, \"n_validation\": 12}, {\"fold\": 2, \"n_train\": 48, \"n_validation\": 12}, {\"fold\": 3, \"n_train\": 48, \"n_validation\": 12}, {\"fold\": 4, \"n_train\": 48, \"n_validation\": 12}]",
+    "source": "<NNUNET_PREPROCESSED>/Dataset801_HCCMRI_ATLAS/splits_final.json"
+  },
+  {
+    "section": "software",
+    "field": "python",
+    "value": "3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0]",
+    "source": "active Python environment"
+  },
+  {
+    "section": "software",
+    "field": "platform",
+    "value": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "source": "active Python environment"
+  },
+  {
+    "section": "software",
+    "field": "nnunetv2",
+    "value": "2.6.4",
+    "source": "active Python environment"
+  },
+  {
+    "section": "software",
+    "field": "torch",
+    "value": "2.8.0+cu126",
+    "source": "active Python environment"
+  },
+  {
+    "section": "software",
+    "field": "numpy",
+    "value": "2.4.4",
+    "source": "active Python environment"
+  },
+  {
+    "section": "software",
+    "field": "scipy",
+    "value": "1.17.1",
+    "source": "active Python environment"
+  },
+  {
+    "section": "software",
+    "field": "pandas",
+    "value": "3.0.2",
+    "source": "active Python environment"
+  },
+  {
+    "section": "software",
+    "field": "nibabel",
+    "value": "5.4.2",
+    "source": "active Python environment"
+  },
+  {
+    "section": "software",
+    "field": "SimpleITK",
+    "value": "2.5.3",
+    "source": "active Python environment"
+  },
+  {
+    "section": "software",
+    "field": "scikit-learn",
+    "value": "1.8.0",
+    "source": "active Python environment"
+  }
+]

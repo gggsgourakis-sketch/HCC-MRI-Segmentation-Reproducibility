@@ -1,0 +1,8 @@
+relative_path	foreground_mean_Dice
+crossval_results_folds_0_1_2_3_4/postprocessed/summary.json	0.5315245771880658
+crossval_results_folds_0_1_2_3_4/summary.json	0.5315245771880658
+fold_0/validation/summary.json	0.6185046673707907
+fold_1/validation/summary.json	0.4111578816091998
+fold_2/validation/summary.json	0.4434338504242885
+fold_3/validation/summary.json	0.506159007593895
+fold_4/validation/summary.json	0.6783674789421551

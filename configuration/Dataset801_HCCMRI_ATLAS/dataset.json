@@ -1,0 +1,14 @@
+{
+  "name": "HCCMRI_ATLAS",
+  "description": "ATLAS MRI HCC tumour segmentation packaged for nnU-Net v2",
+  "tensorImageSize": "3D",
+  "file_ending": ".nii.gz",
+  "channel_names": {
+    "0": "MRI"
+  },
+  "labels": {
+    "background": 0,
+    "tumour": 1
+  },
+  "numTraining": 60
+}

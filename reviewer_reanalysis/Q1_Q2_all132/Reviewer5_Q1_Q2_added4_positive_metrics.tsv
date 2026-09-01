@@ -1,0 +1,17 @@
+subject_id	case_id	phase	has_HCC	analysis_group	reference_status	reference_source	gt_voxels	pred_voxels	prediction_volume_ml	prediction_components_26conn	intersection_voxels	dice	detected_any_overlap	prediction_empty	voxel_sensitivity
+sub-002	OpenSwissHCC_002	arterial	1	added_positive	complete_positive	new_phasewise_reference	948.0	1851	2.6779511028528216	1	0.0	0.0	0.0	0	0.0
+sub-030	OpenSwissHCC_030	arterial	1	added_positive	complete_positive	new_phasewise_reference	879.0	31926	46.18923117756844	1	0.0	0.0	0.0	0	0.0
+sub-054	OpenSwissHCC_054	arterial	1	added_positive	complete_positive	new_phasewise_reference	1708.0	462	1.8230366249084473	1	0.0	0.0	0.0	0	0.0
+sub-060	OpenSwissHCC_060	arterial	1	added_positive	complete_positive	new_phasewise_reference	48777.0	4771	6.902487688660622	2	4037.0	0.15078060805258833	1.0	0	0.0827644176558624
+sub-002	OpenSwissHCC_002	portal_venous	1	added_positive	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-030	OpenSwissHCC_030	portal_venous	1	added_positive	incomplete_positive	incomplete_phase_reference		242	1.0237734375	3				0	
+sub-054	OpenSwissHCC_054	portal_venous	1	added_positive	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-060	OpenSwissHCC_060	portal_venous	1	added_positive	incomplete_positive	incomplete_phase_reference		11944	55.9875	1				0	
+sub-002	OpenSwissHCC_002	delayed	1	added_positive	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-030	OpenSwissHCC_030	delayed	1	added_positive	complete_positive	new_phasewise_reference	322.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-054	OpenSwissHCC_054	delayed	1	added_positive	complete_positive	new_phasewise_reference	1544.0	11543	45.54829385566711	7	0.0	0.0	0.0	0	0.0
+sub-060	OpenSwissHCC_060	delayed	1	added_positive	incomplete_positive	incomplete_phase_reference		7775	36.4453125	2				0	
+sub-002	OpenSwissHCC_002	native	1	added_positive	complete_positive	new_phasewise_reference	465.0	122	0.5161171875	1	122.0	0.41567291311754684	1.0	0	0.2623655913978495
+sub-030	OpenSwissHCC_030	native	1	added_positive	complete_positive	new_phasewise_reference	166.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-054	OpenSwissHCC_054	native	1	added_positive	complete_positive	new_phasewise_reference	1813.0	545	2.1505518627166746	2	0.0	0.0	0.0	0	0.0
+sub-060	OpenSwissHCC_060	native	1	added_positive	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	

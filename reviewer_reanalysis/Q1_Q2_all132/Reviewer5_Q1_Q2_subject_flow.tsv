@@ -1,0 +1,5 @@
+phase	eligible_HCC_positive_subjects	complete_positive_references	incomplete_positive_references	true_HCC_negative_subjects	total_subjects_inferred
+arterial	63	63	0	69	132
+portal_venous	63	57	6	69	132
+delayed	63	58	5	69	132
+native	63	42	21	69	132

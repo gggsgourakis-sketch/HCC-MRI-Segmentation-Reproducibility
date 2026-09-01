@@ -1,0 +1,529 @@
+subject_id	case_id	phase	has_HCC	analysis_group	reference_status	reference_source	gt_voxels	pred_voxels	prediction_volume_ml	prediction_components_26conn	intersection_voxels	dice	detected_any_overlap	prediction_empty	voxel_sensitivity
+sub-001	OpenSwissHCC_001	arterial	1	original_59	complete_positive	original_phasewise_reference	482.0	1556	2.251157166957855	1	0.0	0.0	0.0	0	0.0
+sub-002	OpenSwissHCC_002	arterial	1	added_positive	complete_positive	new_phasewise_reference	948.0	1851	2.6779511028528216	1	0.0	0.0	0.0	0	0.0
+sub-003	OpenSwissHCC_003	arterial	1	original_59	complete_positive	original_phasewise_reference	542.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-004	OpenSwissHCC_004	arterial	1	original_59	complete_positive	original_phasewise_reference	615.0	594	0.8593749082088471	1	377.0	0.6236559139784946	1.0	0	0.6130081300813008
+sub-005	OpenSwissHCC_005	arterial	1	original_59	complete_positive	original_phasewise_reference	21769.0	97	0.14033563315868378	1	0.0	0.0	0.0	0	0.0
+sub-006	OpenSwissHCC_006	arterial	1	original_59	complete_positive	original_phasewise_reference	6780.0	6438	30.178125	1	5343.0	0.8084430322287789	1.0	0	0.7880530973451327
+sub-007	OpenSwissHCC_007	arterial	1	original_59	complete_positive	original_phasewise_reference	4196.0	8759	12.672162998318672	8	3388.0	0.5230412967966036	1.0	0	0.8074356530028599
+sub-008	OpenSwissHCC_008	arterial	1	original_59	complete_positive	original_phasewise_reference	23928.0	88	0.12731480121612548	1	88.0	0.0073284477015323115	1.0	0	0.0036776997659645604
+sub-009	OpenSwissHCC_009	arterial	1	original_59	complete_positive	original_phasewise_reference	2805.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-010	OpenSwissHCC_010	arterial	1	original_59	complete_positive	original_phasewise_reference	4269.0	4865	7.038483044505119	1	3583.0	0.7845412743595358	1.0	0	0.8393066291871633
+sub-011	OpenSwissHCC_011	arterial	1	original_59	complete_positive	original_phasewise_reference	14252.0	10210	43.1930859375	1	9748.0	0.7969912517373886	1.0	0	0.6839741790625877
+sub-012	OpenSwissHCC_012	arterial	1	original_59	complete_positive	original_phasewise_reference	9871.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-013	OpenSwissHCC_013	arterial	1	original_59	complete_positive	original_phasewise_reference	2338.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-014	OpenSwissHCC_014	arterial	1	original_59	complete_positive	original_phasewise_reference	9076.0	8316	35.180578125	1	7754.0	0.891674333026679	1.0	0	0.8543411194358749
+sub-015	OpenSwissHCC_015	arterial	1	original_59	complete_positive	original_phasewise_reference	2288.0	154	0.2228009021282196	1	154.0	0.12612612612612611	1.0	0	0.0673076923076923
+sub-016	OpenSwissHCC_016	arterial	1	original_59	complete_positive	original_phasewise_reference	11315.0	7830	33.1245703125	1	7510.0	0.7845390441368504	1.0	0	0.6637207247017234
+sub-017	OpenSwissHCC_017	arterial	1	original_59	complete_positive	original_phasewise_reference	11759.0	7062	10.217012797594071	3	3710.0	0.3942404760639711	1.0	0	0.31550301896419763
+sub-018	OpenSwissHCC_018	arterial	1	original_59	complete_positive	original_phasewise_reference	3287.0	1164	1.6840275979042054	1	1106.0	0.4969669737137722	1.0	0	0.3364770307271068
+sub-019	OpenSwissHCC_019	arterial	1	original_59	complete_positive	original_phasewise_reference	1297.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-020	OpenSwissHCC_020	arterial	1	original_59	complete_positive	original_phasewise_reference	3748.0	229	0.38286767387390136	1	229.0	0.11516218254966056	1.0	0	0.06109925293489861
+sub-021	OpenSwissHCC_021	arterial	1	original_59	complete_positive	original_phasewise_reference	803.0	1238	1.7910877716541291	1	0.0	0.0	0.0	0	0.0
+sub-022	OpenSwissHCC_022	arterial	1	original_59	complete_positive	original_phasewise_reference	2925.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-023	OpenSwissHCC_023	arterial	1	original_59	complete_positive	original_phasewise_reference	2124.0	12992	18.796294288635252	5	1598.0	0.21143159566022757	1.0	0	0.7523540489642184
+sub-024	OpenSwissHCC_024	arterial	1	original_59	complete_positive	original_phasewise_reference	4856.0	305	1.6521826171875	1	0.0	0.0	0.0	0	0.0
+sub-025	OpenSwissHCC_025	arterial	1	original_59	complete_positive	original_phasewise_reference	7802.0	7133	10.319732694029808	1	6494.0	0.8696350853699364	1.0	0	0.8323506793129967
+sub-026	OpenSwissHCC_026	arterial	1	original_59	complete_positive	original_phasewise_reference	869.0	146661	212.18313705861567	2	0.0	0.0	0.0	0	0.0
+sub-027	OpenSwissHCC_027	arterial	1	original_59	complete_positive	original_phasewise_reference	1497.0	345	0.49913189113140105	1	0.0	0.0	0.0	0	0.0
+sub-028	OpenSwissHCC_028	arterial	1	original_59	complete_positive	original_phasewise_reference	3250.0	7737	11.760252764940262	5	1645.0	0.29944479839810684	1.0	0	0.5061538461538462
+sub-029	OpenSwissHCC_029	arterial	1	original_59	complete_positive	original_phasewise_reference	3541.0	4883	7.064524708390236	2	2798.0	0.664292497625831	1.0	0	0.7901722677209828
+sub-030	OpenSwissHCC_030	arterial	1	added_positive	complete_positive	new_phasewise_reference	879.0	31926	46.18923117756844	1	0.0	0.0	0.0	0	0.0
+sub-031	OpenSwissHCC_031	arterial	1	original_59	complete_positive	original_phasewise_reference	19246.0	11849	41.656640625	1	11361.0	0.7307284129281235	1.0	0	0.5903044788527486
+sub-032	OpenSwissHCC_032	arterial	1	original_59	complete_positive	original_phasewise_reference	2015.0	2072	8.76553125	3	1501.0	0.7345241008074382	1.0	0	0.7449131513647642
+sub-033	OpenSwissHCC_033	arterial	1	original_59	complete_positive	original_phasewise_reference	870.0	465	0.6727429836988449	1	0.0	0.0	0.0	0	0.0
+sub-034	OpenSwissHCC_034	arterial	1	original_59	complete_positive	original_phasewise_reference	629.0	10	0.054169921875	2	10.0	0.03129890453834116	1.0	0	0.01589825119236884
+sub-035	OpenSwissHCC_035	arterial	1	original_59	complete_positive	original_phasewise_reference	1671.0	848	1.1782686233520507	1	723.0	0.574037316395395	1.0	0	0.4326750448833034
+sub-036	OpenSwissHCC_036	arterial	1	original_59	complete_positive	original_phasewise_reference	5230.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-037	OpenSwissHCC_037	arterial	1	original_59	complete_positive	original_phasewise_reference	5264.0	593	0.8579281491041183	1	0.0	0.0	0.0	0	0.0
+sub-038	OpenSwissHCC_038	arterial	1	original_59	complete_positive	original_phasewise_reference	5802.0	10423	29.996037388563156	2	5406.0	0.6663790446841295	1.0	0	0.9317476732161324
+sub-039	OpenSwissHCC_039	arterial	1	original_59	complete_positive	original_phasewise_reference	2220.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-040	OpenSwissHCC_040	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-041	OpenSwissHCC_041	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-042	OpenSwissHCC_042	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-043	OpenSwissHCC_043	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-044	OpenSwissHCC_044	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	398	0.5758101236820221	1	0.0			0	
+sub-045	OpenSwissHCC_045	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-046	OpenSwissHCC_046	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-047	OpenSwissHCC_047	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-048	OpenSwissHCC_048	arterial	1	original_59	complete_positive	original_phasewise_reference	779.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-049	OpenSwissHCC_049	arterial	1	original_59	complete_positive	original_phasewise_reference	932.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-050	OpenSwissHCC_050	arterial	1	original_59	complete_positive	original_phasewise_reference	3957.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-051	OpenSwissHCC_051	arterial	1	original_59	complete_positive	original_phasewise_reference	2570.0	3016	4.363425459861755	1	2442.0	0.874328678839957	1.0	0	0.9501945525291828
+sub-052	OpenSwissHCC_052	arterial	1	original_59	complete_positive	original_phasewise_reference	4441.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-053	OpenSwissHCC_053	arterial	1	original_59	complete_positive	original_phasewise_reference	2556.0	1853	5.9088010745048525	1	1742.0	0.7902018598321615	1.0	0	0.6815336463223787
+sub-054	OpenSwissHCC_054	arterial	1	added_positive	complete_positive	new_phasewise_reference	1708.0	462	1.8230366249084473	1	0.0	0.0	0.0	0	0.0
+sub-055	OpenSwissHCC_055	arterial	1	original_59	complete_positive	original_phasewise_reference	11308.0	8568	12.395832009315491	3	6607.0	0.6648218957536728	1.0	0	0.5842766183233109
+sub-056	OpenSwissHCC_056	arterial	1	original_59	complete_positive	original_phasewise_reference	674.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-057	OpenSwissHCC_057	arterial	1	original_59	complete_positive	original_phasewise_reference	5830.0	6638	39.38351096725464	1	5315.0	0.8525826114854026	1.0	0	0.9116638078902229
+sub-058	OpenSwissHCC_058	arterial	1	original_59	complete_positive	original_phasewise_reference	741.0	760	3.92765625	1	676.0	0.9007328447701533	1.0	0	0.9122807017543859
+sub-059	OpenSwissHCC_059	arterial	1	original_59	complete_positive	original_phasewise_reference	1245.0	3868	5.596064217090607	4	1230.0	0.4811265401916683	1.0	0	0.9879518072289156
+sub-060	OpenSwissHCC_060	arterial	1	added_positive	complete_positive	new_phasewise_reference	48777.0	4771	6.902487688660622	2	4037.0	0.15078060805258833	1.0	0	0.0827644176558624
+sub-061	OpenSwissHCC_061	arterial	1	original_59	complete_positive	original_phasewise_reference	1087.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-062	OpenSwissHCC_062	arterial	1	original_59	complete_positive	original_phasewise_reference	10090.0	7626	16.80289306640625	1	7283.0	0.8221946263264845	1.0	0	0.7218037661050545
+sub-063	OpenSwissHCC_063	arterial	1	original_59	complete_positive	original_phasewise_reference	254.0	322	1.3622109375	1	251.0	0.8715277777777778	1.0	0	0.9881889763779528
+sub-064	OpenSwissHCC_064	arterial	1	original_59	complete_positive	original_phasewise_reference	749.0	580	3.14185546875	1	560.0	0.8427389014296464	1.0	0	0.7476635514018691
+sub-065	OpenSwissHCC_065	arterial	1	original_59	complete_positive	original_phasewise_reference	83670.0	98081	141.8995797508955	2	72262.0	0.7951758174645531	1.0	0	0.8636548344687462
+sub-066	OpenSwissHCC_066	arterial	1	original_59	complete_positive	original_phasewise_reference	10124.0	13192	19.085646109580992	3	9749.0	0.8362497855549837	1.0	0	0.9629593046226788
+sub-067	OpenSwissHCC_067	arterial	1	original_59	complete_positive	original_phasewise_reference	2586.0	564	0.8159721350669861	1	0.0	0.0	0.0	0	0.0
+sub-068	OpenSwissHCC_068	arterial	1	original_59	complete_positive	original_phasewise_reference	2235.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-069	OpenSwissHCC_069	arterial	1	original_59	complete_positive	original_phasewise_reference	14248.0	18664	31.502697623252867	3	9423.0	0.5726178901312591	1.0	0	0.6613559797866367
+sub-070	OpenSwissHCC_070	arterial	1	original_59	complete_positive	original_phasewise_reference	5147.0	8260	11.950230205059052	1	5045.0	0.7525919295890207	1.0	0	0.9801826306586361
+sub-071	OpenSwissHCC_071	arterial	1	original_59	complete_positive	original_phasewise_reference	410.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-072	OpenSwissHCC_072	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-073	OpenSwissHCC_073	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-074	OpenSwissHCC_074	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-075	OpenSwissHCC_075	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-076	OpenSwissHCC_076	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	9663	65.22525	9	0.0			0	
+sub-077	OpenSwissHCC_077	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-078	OpenSwissHCC_078	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	1353013	1957.4838765662907	3	0.0			0	
+sub-079	OpenSwissHCC_079	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-080	OpenSwissHCC_080	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-081	OpenSwissHCC_081	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	97	0.5254482421875	3	0.0			0	
+sub-082	OpenSwissHCC_082	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	17353	25.105610744357108	2	0.0			0	
+sub-083	OpenSwissHCC_083	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	712	1.0300924825668334	1	0.0			0	
+sub-084	OpenSwissHCC_084	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	55170	79.8176998078823	2	0.0			0	
+sub-085	OpenSwissHCC_085	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	52524	75.98957521677018	2	0.0			0	
+sub-086	OpenSwissHCC_086	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	4625	22.826904296875	4	0.0			0	
+sub-087	OpenSwissHCC_087	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-088	OpenSwissHCC_088	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	259127	1154.7787310266494	1	0.0			0	
+sub-089	OpenSwissHCC_089	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-090	OpenSwissHCC_090	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-091	OpenSwissHCC_091	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	105	0.5687841796875	1	0.0			0	
+sub-092	OpenSwissHCC_092	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	18	0.030381941556930542	1	0.0			0	
+sub-093	OpenSwissHCC_093	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-094	OpenSwissHCC_094	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-095	OpenSwissHCC_095	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-096	OpenSwissHCC_096	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-097	OpenSwissHCC_097	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-098	OpenSwissHCC_098	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	4239	17.93295703125	2	0.0			0	
+sub-099	OpenSwissHCC_099	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-100	OpenSwissHCC_100	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-101	OpenSwissHCC_101	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-102	OpenSwissHCC_102	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-103	OpenSwissHCC_103	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-104	OpenSwissHCC_104	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-105	OpenSwissHCC_105	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-106	OpenSwissHCC_106	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	35436	51.26735563516617	6	0.0			0	
+sub-107	OpenSwissHCC_107	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-108	OpenSwissHCC_108	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	2375	3.4360528737306595	1	0.0			0	
+sub-109	OpenSwissHCC_109	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	536110	775.6220236361027	5	0.0			0	
+sub-110	OpenSwissHCC_110	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-111	OpenSwissHCC_111	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-112	OpenSwissHCC_112	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-113	OpenSwissHCC_113	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	635	3.4397900390625	3	0.0			0	
+sub-114	OpenSwissHCC_114	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-115	OpenSwissHCC_115	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	163	0.68956640625	1	0.0			0	
+sub-116	OpenSwissHCC_116	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	4905	7.0963534086942675	1	0.0			0	
+sub-117	OpenSwissHCC_117	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-118	OpenSwissHCC_118	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-119	OpenSwissHCC_119	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-120	OpenSwissHCC_120	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-121	OpenSwissHCC_121	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-122	OpenSwissHCC_122	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-123	OpenSwissHCC_123	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-124	OpenSwissHCC_124	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	104	0.5633671875	1	0.0			0	
+sub-125	OpenSwissHCC_125	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	255468	369.6006549668312	1	0.0			0	
+sub-126	OpenSwissHCC_126	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-127	OpenSwissHCC_127	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	84924	122.86457020998002	2	0.0			0	
+sub-128	OpenSwissHCC_128	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-129	OpenSwissHCC_129	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-130	OpenSwissHCC_130	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-131	OpenSwissHCC_131	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-132	OpenSwissHCC_132	arterial	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	340561	492.70972746551035	4	0.0			0	
+sub-001	OpenSwissHCC_001	portal_venous	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-002	OpenSwissHCC_002	portal_venous	1	added_positive	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-003	OpenSwissHCC_003	portal_venous	1	original_59	complete_positive	original_phasewise_reference	136.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-004	OpenSwissHCC_004	portal_venous	1	original_59	complete_positive	original_phasewise_reference	173.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-005	OpenSwissHCC_005	portal_venous	1	original_59	complete_positive	original_phasewise_reference	3870.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-006	OpenSwissHCC_006	portal_venous	1	original_59	complete_positive	original_phasewise_reference	6839.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-007	OpenSwissHCC_007	portal_venous	1	original_59	complete_positive	original_phasewise_reference	780.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-008	OpenSwissHCC_008	portal_venous	1	original_59	complete_positive	original_phasewise_reference	6712.0	710	3.0036328125	1	687.0	0.185125303152789	1.0	0	0.10235399284862932
+sub-009	OpenSwissHCC_009	portal_venous	1	original_59	complete_positive	original_phasewise_reference	2128.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-010	OpenSwissHCC_010	portal_venous	1	original_59	complete_positive	original_phasewise_reference	1463.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-011	OpenSwissHCC_011	portal_venous	1	original_59	complete_positive	original_phasewise_reference	12832.0	12883	54.50112890625	1	11282.0	0.8774645148745868	1.0	0	0.879208229426434
+sub-012	OpenSwissHCC_012	portal_venous	1	original_59	complete_positive	original_phasewise_reference	3416.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-013	OpenSwissHCC_013	portal_venous	1	original_59	complete_positive	original_phasewise_reference	2360.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-014	OpenSwissHCC_014	portal_venous	1	original_59	complete_positive	original_phasewise_reference	7475.0	7476	31.626984375	1	6033.0	0.8070363186408935	1.0	0	0.8070903010033444
+sub-015	OpenSwissHCC_015	portal_venous	1	original_59	incomplete_positive	incomplete_phase_reference		342	1.4468203125	1				0	
+sub-016	OpenSwissHCC_016	portal_venous	1	original_59	complete_positive	original_phasewise_reference	12873.0	36	0.152296875	2	36.0	0.005577504066930049	1.0	0	0.002796550920531345
+sub-017	OpenSwissHCC_017	portal_venous	1	original_59	complete_positive	original_phasewise_reference	3443.0	381	1.61180859375	1	289.0	0.15115062761506276	1.0	0	0.08393842579146094
+sub-018	OpenSwissHCC_018	portal_venous	1	original_59	complete_positive	original_phasewise_reference	954.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-019	OpenSwissHCC_019	portal_venous	1	original_59	complete_positive	original_phasewise_reference	1282.0	2	0.0084609375	1	2.0	0.003115264797507788	1.0	0	0.0015600624024961
+sub-020	OpenSwissHCC_020	portal_venous	1	original_59	complete_positive	original_phasewise_reference	1453.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-021	OpenSwissHCC_021	portal_venous	1	original_59	complete_positive	original_phasewise_reference	205.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-022	OpenSwissHCC_022	portal_venous	1	original_59	complete_positive	original_phasewise_reference	2865.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-023	OpenSwissHCC_023	portal_venous	1	original_59	complete_positive	original_phasewise_reference	399.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-024	OpenSwissHCC_024	portal_venous	1	original_59	complete_positive	original_phasewise_reference	4093.0	5	0.0270849609375	1	0.0	0.0	0.0	0	0.0
+sub-025	OpenSwissHCC_025	portal_venous	1	original_59	complete_positive	original_phasewise_reference	2122.0	8	0.0375	1	8.0	0.007511737089201878	1.0	0	0.003770028275212064
+sub-026	OpenSwissHCC_026	portal_venous	1	original_59	complete_positive	original_phasewise_reference	118.0	2278	11.7726328125	4	0.0	0.0	0.0	0	0.0
+sub-027	OpenSwissHCC_027	portal_venous	1	original_59	complete_positive	original_phasewise_reference	415.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-028	OpenSwissHCC_028	portal_venous	1	original_59	complete_positive	original_phasewise_reference	1052.0	186	0.9160851573944092	1	0.0	0.0	0.0	0	0.0
+sub-029	OpenSwissHCC_029	portal_venous	1	original_59	complete_positive	original_phasewise_reference	914.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-030	OpenSwissHCC_030	portal_venous	1	added_positive	incomplete_positive	incomplete_phase_reference		242	1.0237734375	3				0	
+sub-031	OpenSwissHCC_031	portal_venous	1	original_59	complete_positive	original_phasewise_reference	20794.0	16377	57.575390625	1	15226.0	0.8192408060046811	1.0	0	0.7322304510916611
+sub-032	OpenSwissHCC_032	portal_venous	1	original_59	complete_positive	original_phasewise_reference	389.0	21	0.08883984375	1	0.0	0.0	0.0	0	0.0
+sub-033	OpenSwissHCC_033	portal_venous	1	original_59	complete_positive	original_phasewise_reference	299.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-034	OpenSwissHCC_034	portal_venous	1	original_59	complete_positive	original_phasewise_reference	500.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-035	OpenSwissHCC_035	portal_venous	1	original_59	complete_positive	original_phasewise_reference	426.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-036	OpenSwissHCC_036	portal_venous	1	original_59	complete_positive	original_phasewise_reference	2600.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-037	OpenSwissHCC_037	portal_venous	1	original_59	complete_positive	original_phasewise_reference	1596.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-038	OpenSwissHCC_038	portal_venous	1	original_59	complete_positive	original_phasewise_reference	7871.0	6122	17.618319187641145	1	5381.0	0.7690988351318516	1.0	0	0.6836488375047644
+sub-039	OpenSwissHCC_039	portal_venous	1	original_59	complete_positive	original_phasewise_reference	1740.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-040	OpenSwissHCC_040	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-041	OpenSwissHCC_041	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-042	OpenSwissHCC_042	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-043	OpenSwissHCC_043	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-044	OpenSwissHCC_044	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-045	OpenSwissHCC_045	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-046	OpenSwissHCC_046	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-047	OpenSwissHCC_047	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-048	OpenSwissHCC_048	portal_venous	1	original_59	complete_positive	original_phasewise_reference	900.0	1024	5.547	1	763.0	0.7931392931392931	1.0	0	0.8477777777777777
+sub-049	OpenSwissHCC_049	portal_venous	1	original_59	complete_positive	original_phasewise_reference	204.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-050	OpenSwissHCC_050	portal_venous	1	original_59	complete_positive	original_phasewise_reference	4591.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-051	OpenSwissHCC_051	portal_venous	1	original_59	complete_positive	original_phasewise_reference	538.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-052	OpenSwissHCC_052	portal_venous	1	original_59	complete_positive	original_phasewise_reference	4612.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-053	OpenSwissHCC_053	portal_venous	1	original_59	complete_positive	original_phasewise_reference	2556.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-054	OpenSwissHCC_054	portal_venous	1	added_positive	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-055	OpenSwissHCC_055	portal_venous	1	original_59	complete_positive	original_phasewise_reference	4396.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-056	OpenSwissHCC_056	portal_venous	1	original_59	complete_positive	original_phasewise_reference	581.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-057	OpenSwissHCC_057	portal_venous	1	original_59	complete_positive	original_phasewise_reference	5697.0	4241	25.16201717567444	2	2334.0	0.46971221573757294	1.0	0	0.40968931016324384
+sub-058	OpenSwissHCC_058	portal_venous	1	original_59	complete_positive	original_phasewise_reference	836.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-059	OpenSwissHCC_059	portal_venous	1	original_59	complete_positive	original_phasewise_reference	338.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-060	OpenSwissHCC_060	portal_venous	1	added_positive	incomplete_positive	incomplete_phase_reference		11944	55.9875	1				0	
+sub-061	OpenSwissHCC_061	portal_venous	1	original_59	complete_positive	original_phasewise_reference	285.0	12	0.050765625	1	12.0	0.08080808080808081	1.0	0	0.042105263157894736
+sub-062	OpenSwissHCC_062	portal_venous	1	original_59	complete_positive	original_phasewise_reference	10090.0	2599	5.726556396484375	1	0.0	0.0	0.0	0	0.0
+sub-063	OpenSwissHCC_063	portal_venous	1	original_59	complete_positive	original_phasewise_reference	279.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-064	OpenSwissHCC_064	portal_venous	1	original_59	complete_positive	original_phasewise_reference	196.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-065	OpenSwissHCC_065	portal_venous	1	original_59	complete_positive	original_phasewise_reference	28312.0	46907	198.43859765625	1	25587.0	0.6803334263949268	1.0	0	0.9037510596213619
+sub-066	OpenSwissHCC_066	portal_venous	1	original_59	complete_positive	original_phasewise_reference	2714.0	3735	15.80080078125	2	2660.0	0.8249340983098155	1.0	0	0.9801031687546058
+sub-067	OpenSwissHCC_067	portal_venous	1	original_59	complete_positive	original_phasewise_reference	1228.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-068	OpenSwissHCC_068	portal_venous	1	original_59	complete_positive	original_phasewise_reference	2235.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-069	OpenSwissHCC_069	portal_venous	1	original_59	complete_positive	original_phasewise_reference	4409.0	8050	39.73115234375	2	399.0	0.06405008427642668	1.0	0	0.09049671127239736
+sub-070	OpenSwissHCC_070	portal_venous	1	original_59	complete_positive	original_phasewise_reference	1694.0	2208	10.35	1	1331.0	0.6822142491030241	1.0	0	0.7857142857142857
+sub-071	OpenSwissHCC_071	portal_venous	1	original_59	complete_positive	original_phasewise_reference	481.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-072	OpenSwissHCC_072	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-073	OpenSwissHCC_073	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-074	OpenSwissHCC_074	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-075	OpenSwissHCC_075	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-076	OpenSwissHCC_076	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	16909	114.13575	2	0.0			0	
+sub-077	OpenSwissHCC_077	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-078	OpenSwissHCC_078	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	377840	1598.4403125	1	0.0			0	
+sub-079	OpenSwissHCC_079	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-080	OpenSwissHCC_080	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-081	OpenSwissHCC_081	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-082	OpenSwissHCC_082	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-083	OpenSwissHCC_083	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	193	0.81648046875	1	0.0			0	
+sub-084	OpenSwissHCC_084	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-085	OpenSwissHCC_085	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-086	OpenSwissHCC_086	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-087	OpenSwissHCC_087	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-088	OpenSwissHCC_088	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	26658	118.79924288749694	8	0.0			0	
+sub-089	OpenSwissHCC_089	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	2	0.0084609375	1	0.0			0	
+sub-090	OpenSwissHCC_090	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-091	OpenSwissHCC_091	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	95	0.5146142578125	2	0.0			0	
+sub-092	OpenSwissHCC_092	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-093	OpenSwissHCC_093	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-094	OpenSwissHCC_094	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-095	OpenSwissHCC_095	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-096	OpenSwissHCC_096	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-097	OpenSwissHCC_097	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-098	OpenSwissHCC_098	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	280	1.18453125	1	0.0			0	
+sub-099	OpenSwissHCC_099	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-100	OpenSwissHCC_100	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-101	OpenSwissHCC_101	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-102	OpenSwissHCC_102	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-103	OpenSwissHCC_103	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-104	OpenSwissHCC_104	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-105	OpenSwissHCC_105	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-106	OpenSwissHCC_106	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-107	OpenSwissHCC_107	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-108	OpenSwissHCC_108	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-109	OpenSwissHCC_109	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	53417	276.05738671875	1	0.0			0	
+sub-110	OpenSwissHCC_110	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-111	OpenSwissHCC_111	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-112	OpenSwissHCC_112	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-113	OpenSwissHCC_113	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-114	OpenSwissHCC_114	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-115	OpenSwissHCC_115	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-116	OpenSwissHCC_116	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	1515	6.40916015625	1	0.0			0	
+sub-117	OpenSwissHCC_117	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-118	OpenSwissHCC_118	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	2	0.0084609375	1	0.0			0	
+sub-119	OpenSwissHCC_119	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	136	0.57534375	1	0.0			0	
+sub-120	OpenSwissHCC_120	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-121	OpenSwissHCC_121	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-122	OpenSwissHCC_122	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-123	OpenSwissHCC_123	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-124	OpenSwissHCC_124	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-125	OpenSwissHCC_125	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-126	OpenSwissHCC_126	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-127	OpenSwissHCC_127	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	62922	266.1895546875	1	0.0			0	
+sub-128	OpenSwissHCC_128	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-129	OpenSwissHCC_129	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	4559	19.28670703125	3	0.0			0	
+sub-130	OpenSwissHCC_130	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-131	OpenSwissHCC_131	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-132	OpenSwissHCC_132	portal_venous	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-001	OpenSwissHCC_001	delayed	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-002	OpenSwissHCC_002	delayed	1	added_positive	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-003	OpenSwissHCC_003	delayed	1	original_59	complete_positive	original_phasewise_reference	130.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-004	OpenSwissHCC_004	delayed	1	original_59	complete_positive	original_phasewise_reference	158.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-005	OpenSwissHCC_005	delayed	1	original_59	complete_positive	original_phasewise_reference	4310.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-006	OpenSwissHCC_006	delayed	1	original_59	complete_positive	original_phasewise_reference	7173.0	2	0.009375	1	0.0	0.0	0.0	0	0.0
+sub-007	OpenSwissHCC_007	delayed	1	original_59	complete_positive	original_phasewise_reference	1301.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-008	OpenSwissHCC_008	delayed	1	original_59	complete_positive	original_phasewise_reference	7628.0	7900	33.420703125	1	6928.0	0.8923235445646573	1.0	0	0.908232826428946
+sub-009	OpenSwissHCC_009	delayed	1	original_59	complete_positive	original_phasewise_reference	2506.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-010	OpenSwissHCC_010	delayed	1	original_59	complete_positive	original_phasewise_reference	1553.0	2728	11.54071875	1	1263.0	0.5900490539593553	1.0	0	0.8132646490663232
+sub-011	OpenSwissHCC_011	delayed	1	original_59	complete_positive	original_phasewise_reference	11786.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-012	OpenSwissHCC_012	delayed	1	original_59	complete_positive	original_phasewise_reference	3569.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-013	OpenSwissHCC_013	delayed	1	original_59	complete_positive	original_phasewise_reference	2753.0	1808	9.793921875	1	1639.0	0.7187020390265293	1.0	0	0.5953505266981475
+sub-014	OpenSwissHCC_014	delayed	1	original_59	complete_positive	original_phasewise_reference	7190.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-015	OpenSwissHCC_015	delayed	1	original_59	complete_positive	original_phasewise_reference	1010.0	823	3.48167578125	2	660.0	0.7201309328968903	1.0	0	0.6534653465346535
+sub-016	OpenSwissHCC_016	delayed	1	original_59	complete_positive	original_phasewise_reference	9283.0	6710	28.3864453125	1	6575.0	0.8222347276933658	1.0	0	0.7082839599267479
+sub-017	OpenSwissHCC_017	delayed	1	original_59	complete_positive	original_phasewise_reference	2814.0	1658	7.0141171875	1	1400.0	0.6261180679785331	1.0	0	0.4975124378109453
+sub-018	OpenSwissHCC_018	delayed	1	original_59	complete_positive	original_phasewise_reference	999.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-019	OpenSwissHCC_019	delayed	1	original_59	complete_positive	original_phasewise_reference	1247.0	286	1.2099140625	2	255.0	0.33268101761252444	1.0	0	0.20449077786688052
+sub-020	OpenSwissHCC_020	delayed	1	original_59	complete_positive	original_phasewise_reference	1211.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-021	OpenSwissHCC_021	delayed	1	original_59	complete_positive	original_phasewise_reference	193.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-022	OpenSwissHCC_022	delayed	1	original_59	complete_positive	original_phasewise_reference	2611.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-023	OpenSwissHCC_023	delayed	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-024	OpenSwissHCC_024	delayed	1	original_59	complete_positive	original_phasewise_reference	4929.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-025	OpenSwissHCC_025	delayed	1	original_59	complete_positive	original_phasewise_reference	1034.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-026	OpenSwissHCC_026	delayed	1	original_59	complete_positive	original_phasewise_reference	266.0	7	0.03617578125	1	0.0	0.0	0.0	0	0.0
+sub-027	OpenSwissHCC_027	delayed	1	original_59	complete_positive	original_phasewise_reference	352.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-028	OpenSwissHCC_028	delayed	1	original_59	complete_positive	original_phasewise_reference	663.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-029	OpenSwissHCC_029	delayed	1	original_59	complete_positive	original_phasewise_reference	1388.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-030	OpenSwissHCC_030	delayed	1	added_positive	complete_positive	new_phasewise_reference	322.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-031	OpenSwissHCC_031	delayed	1	original_59	complete_positive	original_phasewise_reference	18289.0	16446	57.81796875	1	13773.0	0.7930329638692961	1.0	0	0.7530756192246706
+sub-032	OpenSwissHCC_032	delayed	1	original_59	complete_positive	original_phasewise_reference	749.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-033	OpenSwissHCC_033	delayed	1	original_59	complete_positive	original_phasewise_reference	336.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-034	OpenSwissHCC_034	delayed	1	original_59	complete_positive	original_phasewise_reference	302.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-035	OpenSwissHCC_035	delayed	1	original_59	complete_positive	original_phasewise_reference	308.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-036	OpenSwissHCC_036	delayed	1	original_59	complete_positive	original_phasewise_reference	2255.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-037	OpenSwissHCC_037	delayed	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-038	OpenSwissHCC_038	delayed	1	original_59	complete_positive	original_phasewise_reference	6483.0	6367	18.32339729952812	1	5395.0	0.8396887159533074	1.0	0	0.8321764615147308
+sub-039	OpenSwissHCC_039	delayed	1	original_59	complete_positive	original_phasewise_reference	1527.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-040	OpenSwissHCC_040	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-041	OpenSwissHCC_041	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-042	OpenSwissHCC_042	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-043	OpenSwissHCC_043	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-044	OpenSwissHCC_044	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-045	OpenSwissHCC_045	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-046	OpenSwissHCC_046	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-047	OpenSwissHCC_047	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-048	OpenSwissHCC_048	delayed	1	original_59	complete_positive	original_phasewise_reference	772.0	846	4.582775390625	1	663.0	0.8195302843016069	1.0	0	0.8588082901554405
+sub-049	OpenSwissHCC_049	delayed	1	original_59	complete_positive	original_phasewise_reference	190.0	58	0.2453671875	1	58.0	0.46774193548387094	1.0	0	0.30526315789473685
+sub-050	OpenSwissHCC_050	delayed	1	original_59	complete_positive	original_phasewise_reference	4591.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-051	OpenSwissHCC_051	delayed	1	original_59	complete_positive	original_phasewise_reference	404.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-052	OpenSwissHCC_052	delayed	1	original_59	complete_positive	original_phasewise_reference	4273.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-053	OpenSwissHCC_053	delayed	1	original_59	complete_positive	original_phasewise_reference	3099.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-054	OpenSwissHCC_054	delayed	1	added_positive	complete_positive	new_phasewise_reference	1544.0	11543	45.54829385566711	7	0.0	0.0	0.0	0	0.0
+sub-055	OpenSwissHCC_055	delayed	1	original_59	complete_positive	original_phasewise_reference	3512.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-056	OpenSwissHCC_056	delayed	1	original_59	complete_positive	original_phasewise_reference	619.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-057	OpenSwissHCC_057	delayed	1	original_59	complete_positive	original_phasewise_reference	5347.0	41713	247.48484377479554	3	3343.0	0.14207394815129623	1.0	0	0.6252103983542173
+sub-058	OpenSwissHCC_058	delayed	1	original_59	complete_positive	original_phasewise_reference	715.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-059	OpenSwissHCC_059	delayed	1	original_59	complete_positive	original_phasewise_reference	285.0	57	0.24113671875	2	0.0	0.0	0.0	0	0.0
+sub-060	OpenSwissHCC_060	delayed	1	added_positive	incomplete_positive	incomplete_phase_reference		7775	36.4453125	2				0	
+sub-061	OpenSwissHCC_061	delayed	1	original_59	complete_positive	original_phasewise_reference	224.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-062	OpenSwissHCC_062	delayed	1	original_59	complete_positive	original_phasewise_reference	10326.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-063	OpenSwissHCC_063	delayed	1	original_59	complete_positive	original_phasewise_reference	291.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-064	OpenSwissHCC_064	delayed	1	original_59	complete_positive	original_phasewise_reference	186.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-065	OpenSwissHCC_065	delayed	1	original_59	complete_positive	original_phasewise_reference	27957.0	33639	142.30873828125	1	25091.0	0.8146957594649004	1.0	0	0.8974854240440677
+sub-066	OpenSwissHCC_066	delayed	1	original_59	complete_positive	original_phasewise_reference	2402.0	2442	10.3308046875	2	2184.0	0.9017341040462428	1.0	0	0.9092422980849292
+sub-067	OpenSwissHCC_067	delayed	1	original_59	complete_positive	original_phasewise_reference	1274.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-068	OpenSwissHCC_068	delayed	1	original_59	complete_positive	original_phasewise_reference	2235.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-069	OpenSwissHCC_069	delayed	1	original_59	complete_positive	original_phasewise_reference	4135.0	5799	28.621236328125	2	1454.0	0.2927320314072881	1.0	0	0.3516324062877872
+sub-070	OpenSwissHCC_070	delayed	1	original_59	complete_positive	original_phasewise_reference	1694.0	2348	11.00625	1	1469.0	0.7268678871845621	1.0	0	0.8671782762691853
+sub-071	OpenSwissHCC_071	delayed	1	original_59	complete_positive	original_phasewise_reference	366.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-072	OpenSwissHCC_072	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-073	OpenSwissHCC_073	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-074	OpenSwissHCC_074	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-075	OpenSwissHCC_075	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-076	OpenSwissHCC_076	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	54308	366.579	4	0.0			0	
+sub-077	OpenSwissHCC_077	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-078	OpenSwissHCC_078	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	71533	302.61812109375	7	0.0			0	
+sub-079	OpenSwissHCC_079	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-080	OpenSwissHCC_080	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-081	OpenSwissHCC_081	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	11969	64.8359794921875	3	0.0			0	
+sub-082	OpenSwissHCC_082	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-083	OpenSwissHCC_083	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-084	OpenSwissHCC_084	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-085	OpenSwissHCC_085	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-086	OpenSwissHCC_086	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-087	OpenSwissHCC_087	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-088	OpenSwissHCC_088	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	30506	135.94754683494568	3	0.0			0	
+sub-089	OpenSwissHCC_089	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	2	0.0084609375	1	0.0			0	
+sub-090	OpenSwissHCC_090	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	61	0.25805859375	1	0.0			0	
+sub-091	OpenSwissHCC_091	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	383	2.0747080078125	2	0.0			0	
+sub-092	OpenSwissHCC_092	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-093	OpenSwissHCC_093	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-094	OpenSwissHCC_094	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-095	OpenSwissHCC_095	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-096	OpenSwissHCC_096	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-097	OpenSwissHCC_097	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-098	OpenSwissHCC_098	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	276	1.167609375	1	0.0			0	
+sub-099	OpenSwissHCC_099	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-100	OpenSwissHCC_100	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-101	OpenSwissHCC_101	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-102	OpenSwissHCC_102	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-103	OpenSwissHCC_103	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-104	OpenSwissHCC_104	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-105	OpenSwissHCC_105	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-106	OpenSwissHCC_106	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-107	OpenSwissHCC_107	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-108	OpenSwissHCC_108	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-109	OpenSwissHCC_109	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	18278	94.4601328125	3	0.0			0	
+sub-110	OpenSwissHCC_110	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-111	OpenSwissHCC_111	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-112	OpenSwissHCC_112	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-113	OpenSwissHCC_113	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-114	OpenSwissHCC_114	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	556	2.352140625	1	0.0			0	
+sub-115	OpenSwissHCC_115	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	41653	176.21171484375	2	0.0			0	
+sub-116	OpenSwissHCC_116	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	1255	5.30923828125	1	0.0			0	
+sub-117	OpenSwissHCC_117	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-118	OpenSwissHCC_118	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-119	OpenSwissHCC_119	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-120	OpenSwissHCC_120	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-121	OpenSwissHCC_121	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-122	OpenSwissHCC_122	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-123	OpenSwissHCC_123	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-124	OpenSwissHCC_124	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-125	OpenSwissHCC_125	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-126	OpenSwissHCC_126	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-127	OpenSwissHCC_127	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	49683	210.18237890625	1	0.0			0	
+sub-128	OpenSwissHCC_128	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-129	OpenSwissHCC_129	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	166	0.7022578125	2	0.0			0	
+sub-130	OpenSwissHCC_130	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-131	OpenSwissHCC_131	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-132	OpenSwissHCC_132	delayed	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-001	OpenSwissHCC_001	native	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-002	OpenSwissHCC_002	native	1	added_positive	complete_positive	new_phasewise_reference	465.0	122	0.5161171875	1	122.0	0.41567291311754684	1.0	0	0.2623655913978495
+sub-003	OpenSwissHCC_003	native	1	original_59	complete_positive	original_phasewise_reference	172.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-004	OpenSwissHCC_004	native	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-005	OpenSwissHCC_005	native	1	original_59	complete_positive	original_phasewise_reference	4596.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-006	OpenSwissHCC_006	native	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-007	OpenSwissHCC_007	native	1	original_59	incomplete_positive	incomplete_phase_reference		70339	363.50975390625	4				0	
+sub-008	OpenSwissHCC_008	native	1	original_59	complete_positive	original_phasewise_reference	7536.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-009	OpenSwissHCC_009	native	1	original_59	complete_positive	original_phasewise_reference	2607.0	43996	238.32598828125	2	0.0	0.0	0.0	0	0.0
+sub-010	OpenSwissHCC_010	native	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-011	OpenSwissHCC_011	native	1	original_59	incomplete_positive	incomplete_phase_reference		4273	18.07679296875	5				0	
+sub-012	OpenSwissHCC_012	native	1	original_59	complete_positive	original_phasewise_reference	3251.0	3897	16.48613671875	1	0.0	0.0	0.0	0	0.0
+sub-013	OpenSwissHCC_013	native	1	original_59	complete_positive	original_phasewise_reference	2149.0	3083	16.7005869140625	2	2042.0	0.7805810397553516	1.0	0	0.9502093997208003
+sub-014	OpenSwissHCC_014	native	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-015	OpenSwissHCC_015	native	1	original_59	incomplete_positive	incomplete_phase_reference		94244	398.696296875	5				0	
+sub-016	OpenSwissHCC_016	native	1	original_59	complete_positive	original_phasewise_reference	7978.0	1012	4.281234375	1	957.0	0.2129032258064516	1.0	0	0.11995487590874906
+sub-017	OpenSwissHCC_017	native	1	original_59	complete_positive	original_phasewise_reference	2305.0	130	0.5499609375	1	0.0	0.0	0.0	0	0.0
+sub-018	OpenSwissHCC_018	native	1	original_59	complete_positive	original_phasewise_reference	974.0	91	0.38497265625	2	0.0	0.0	0.0	0	0.0
+sub-019	OpenSwissHCC_019	native	1	original_59	complete_positive	original_phasewise_reference	1096.0	48766	206.3030390625	1	0.0	0.0	0.0	0	0.0
+sub-020	OpenSwissHCC_020	native	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-021	OpenSwissHCC_021	native	1	original_59	complete_positive	original_phasewise_reference	190.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-022	OpenSwissHCC_022	native	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-023	OpenSwissHCC_023	native	1	original_59	incomplete_positive	incomplete_phase_reference		1836	7.767140625	3				0	
+sub-024	OpenSwissHCC_024	native	1	original_59	incomplete_positive	incomplete_phase_reference		18787	101.7690322265625	1				0	
+sub-025	OpenSwissHCC_025	native	1	original_59	complete_positive	original_phasewise_reference	687.0	1146	5.371875	4	42.0	0.04582651391162029	1.0	0	0.0611353711790393
+sub-026	OpenSwissHCC_026	native	1	original_59	complete_positive	original_phasewise_reference	255.0	99123	512.26456640625	1	0.0	0.0	0.0	0	0.0
+sub-027	OpenSwissHCC_027	native	1	original_59	complete_positive	original_phasewise_reference	284.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-028	OpenSwissHCC_028	native	1	original_59	complete_positive	original_phasewise_reference	683.0	316	1.5563597297668457	3	0.0	0.0	0.0	0	0.0
+sub-029	OpenSwissHCC_029	native	1	original_59	incomplete_positive	incomplete_phase_reference		10954	46.3405546875	3				0	
+sub-030	OpenSwissHCC_030	native	1	added_positive	complete_positive	new_phasewise_reference	166.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-031	OpenSwissHCC_031	native	1	original_59	complete_positive	original_phasewise_reference	14275.0	842	2.96015625	1	0.0	0.0	0.0	0	0.0
+sub-032	OpenSwissHCC_032	native	1	original_59	complete_positive	original_phasewise_reference	969.0	457	1.93332421875	2	0.0	0.0	0.0	0	0.0
+sub-033	OpenSwissHCC_033	native	1	original_59	complete_positive	original_phasewise_reference	118.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-034	OpenSwissHCC_034	native	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-035	OpenSwissHCC_035	native	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-036	OpenSwissHCC_036	native	1	original_59	complete_positive	original_phasewise_reference	1652.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-037	OpenSwissHCC_037	native	1	original_59	complete_positive	original_phasewise_reference	1794.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-038	OpenSwissHCC_038	native	1	original_59	complete_positive	original_phasewise_reference	4129.0	2381	6.8522080996036525	1	2330.0	0.7158218125960062	1.0	0	0.5643012836037782
+sub-039	OpenSwissHCC_039	native	1	original_59	complete_positive	original_phasewise_reference	1900.0	40725	220.62339663505554	1	1406.0	0.06597067448680352	1.0	0	0.74
+sub-040	OpenSwissHCC_040	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-041	OpenSwissHCC_041	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	114	0.534375	2	0.0			0	
+sub-042	OpenSwissHCC_042	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-043	OpenSwissHCC_043	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-044	OpenSwissHCC_044	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-045	OpenSwissHCC_045	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	738	3.1220859375	1	0.0			0	
+sub-046	OpenSwissHCC_046	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	2726	11.5322578125	2	0.0			0	
+sub-047	OpenSwissHCC_047	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-048	OpenSwissHCC_048	native	1	original_59	complete_positive	original_phasewise_reference	523.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-049	OpenSwissHCC_049	native	1	original_59	complete_positive	original_phasewise_reference	102.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-050	OpenSwissHCC_050	native	1	original_59	complete_positive	original_phasewise_reference	4591.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-051	OpenSwissHCC_051	native	1	original_59	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-052	OpenSwissHCC_052	native	1	original_59	complete_positive	original_phasewise_reference	3760.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-053	OpenSwissHCC_053	native	1	original_59	complete_positive	original_phasewise_reference	2938.0	850	2.7104592084884644	1	576.0	0.3041182682154171	1.0	0	0.19605173587474473
+sub-054	OpenSwissHCC_054	native	1	added_positive	complete_positive	new_phasewise_reference	1813.0	545	2.1505518627166746	2	0.0	0.0	0.0	0	0.0
+sub-055	OpenSwissHCC_055	native	1	original_59	incomplete_positive	incomplete_phase_reference		10480	44.3353125	3				0	
+sub-056	OpenSwissHCC_056	native	1	original_59	incomplete_positive	incomplete_phase_reference		66	0.357521484375	2				0	
+sub-057	OpenSwissHCC_057	native	1	original_59	incomplete_positive	incomplete_phase_reference		1995	11.836412229537963	2				0	
+sub-058	OpenSwissHCC_058	native	1	original_59	complete_positive	original_phasewise_reference	535.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-059	OpenSwissHCC_059	native	1	original_59	complete_positive	original_phasewise_reference	139.0	911	3.85395703125	2	0.0	0.0	0.0	0	0.0
+sub-060	OpenSwissHCC_060	native	1	added_positive	incomplete_positive	incomplete_phase_reference		0	0.0	0				1	
+sub-061	OpenSwissHCC_061	native	1	original_59	complete_positive	original_phasewise_reference	285.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-062	OpenSwissHCC_062	native	1	original_59	complete_positive	original_phasewise_reference	10090.0	23038	50.76121826171875	2	0.0	0.0	0.0	0	0.0
+sub-063	OpenSwissHCC_063	native	1	original_59	complete_positive	original_phasewise_reference	183.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-064	OpenSwissHCC_064	native	1	original_59	complete_positive	original_phasewise_reference	749.0	125608	680.4175546875	3	299.0	0.004732622648527585	1.0	0	0.3991989319092123
+sub-065	OpenSwissHCC_065	native	1	original_59	complete_positive	original_phasewise_reference	23941.0	2565	10.85115234375	1	0.0	0.0	0.0	0	0.0
+sub-066	OpenSwissHCC_066	native	1	original_59	complete_positive	original_phasewise_reference	1649.0	1719	7.27217578125	2	1414.0	0.8396674584323041	1.0	0	0.8574893875075803
+sub-067	OpenSwissHCC_067	native	1	original_59	complete_positive	original_phasewise_reference	984.0	1340	5.668828125	2	40.0	0.03442340791738382	1.0	0	0.04065040650406504
+sub-068	OpenSwissHCC_068	native	1	original_59	complete_positive	original_phasewise_reference	2408.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-069	OpenSwissHCC_069	native	1	original_59	incomplete_positive	incomplete_phase_reference		57786	285.20551171875	3				0	
+sub-070	OpenSwissHCC_070	native	1	original_59	complete_positive	original_phasewise_reference	1778.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-071	OpenSwissHCC_071	native	1	original_59	complete_positive	original_phasewise_reference	290.0	0	0.0	0	0.0	0.0	0.0	1	0.0
+sub-072	OpenSwissHCC_072	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-073	OpenSwissHCC_073	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-074	OpenSwissHCC_074	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	69762	295.1259609375	1	0.0			0	
+sub-075	OpenSwissHCC_075	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-076	OpenSwissHCC_076	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	23384	157.842	5	0.0			0	
+sub-077	OpenSwissHCC_077	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-078	OpenSwissHCC_078	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	24128	102.07275	1	0.0			0	
+sub-079	OpenSwissHCC_079	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	4133	17.48452734375	1	0.0			0	
+sub-080	OpenSwissHCC_080	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-081	OpenSwissHCC_081	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	10617	57.5122060546875	1	0.0			0	
+sub-082	OpenSwissHCC_082	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	44824	189.62653125	3	0.0			0	
+sub-083	OpenSwissHCC_083	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-084	OpenSwissHCC_084	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-085	OpenSwissHCC_085	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-086	OpenSwissHCC_086	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	160669	792.989380859375	1	0.0			0	
+sub-087	OpenSwissHCC_087	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	5369	32.371294921875	2	0.0			0	
+sub-088	OpenSwissHCC_088	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	2781	12.393303866386413	2	0.0			0	
+sub-089	OpenSwissHCC_089	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-090	OpenSwissHCC_090	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-091	OpenSwissHCC_091	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	151	0.8179658203125	1	0.0			0	
+sub-092	OpenSwissHCC_092	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	82146	405.43543359375	1	0.0			0	
+sub-093	OpenSwissHCC_093	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	2228	9.425484375	3	0.0			0	
+sub-094	OpenSwissHCC_094	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	3368	18.2444296875	1	0.0			0	
+sub-095	OpenSwissHCC_095	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-096	OpenSwissHCC_096	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-097	OpenSwissHCC_097	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-098	OpenSwissHCC_098	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	134	0.5668828125	1	0.0			0	
+sub-099	OpenSwissHCC_099	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	1642	8.10416796875	2	0.0			0	
+sub-100	OpenSwissHCC_100	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	21	0.0984375	1	0.0			0	
+sub-101	OpenSwissHCC_101	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-102	OpenSwissHCC_102	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	21796	107.5751796875	1	0.0			0	
+sub-103	OpenSwissHCC_103	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-104	OpenSwissHCC_104	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-105	OpenSwissHCC_105	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-106	OpenSwissHCC_106	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	60	0.310078125	2	0.0			0	
+sub-107	OpenSwissHCC_107	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	190035	803.93712890625	2	0.0			0	
+sub-108	OpenSwissHCC_108	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	742	3.1390078125	1	0.0			0	
+sub-109	OpenSwissHCC_109	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	49565	256.15037109375	2	0.0			0	
+sub-110	OpenSwissHCC_110	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-111	OpenSwissHCC_111	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-112	OpenSwissHCC_112	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-113	OpenSwissHCC_113	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-114	OpenSwissHCC_114	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	12523	52.97816015625	2	0.0			0	
+sub-115	OpenSwissHCC_115	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	2532	10.711546875	2	0.0			0	
+sub-116	OpenSwissHCC_116	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	1602	6.7772109375	1	0.0			0	
+sub-117	OpenSwissHCC_117	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-118	OpenSwissHCC_118	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	5342	22.5991640625	2	0.0			0	
+sub-119	OpenSwissHCC_119	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-120	OpenSwissHCC_120	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-121	OpenSwissHCC_121	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-122	OpenSwissHCC_122	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-123	OpenSwissHCC_123	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-124	OpenSwissHCC_124	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	172466	934.246974609375	1	0.0			0	
+sub-125	OpenSwissHCC_125	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-126	OpenSwissHCC_126	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	
+sub-127	OpenSwissHCC_127	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	3333	14.10015234375	1	0.0			0	
+sub-128	OpenSwissHCC_128	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	1891	10.2435322265625	1	0.0			0	
+sub-129	OpenSwissHCC_129	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	56431	238.72958203125	6	0.0			0	
+sub-130	OpenSwissHCC_130	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	7549	31.93580859375	2	0.0			0	
+sub-131	OpenSwissHCC_131	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	627	2.9390625	1	0.0			0	
+sub-132	OpenSwissHCC_132	native	0	negative	negative_empty_reference	subject_level_HCC_negative	0.0	0	0.0	0	0.0			1	

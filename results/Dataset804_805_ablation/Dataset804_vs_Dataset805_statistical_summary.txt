@@ -1,0 +1,65 @@
+
+==============================================================================
+DATASET804 — VENOUS-ONLY PRIMARY OOF
+==============================================================================
+Total                           : 132
+HCC-positive                    : 63
+HCC-negative                    : 69
+
+HCC-POSITIVE
+Mean Dice                       : 0.2269 (bootstrap 95% CI 0.1617-0.2963)
+Median Dice                     : 0.0249 (bootstrap 95% CI 0.0000-0.2435)
+Any-overlap detection           : 33/63 = 52.4% (Wilson 95% CI 40.3-64.2%)
+Zero-overlap HCC                : 30/63 = 47.6%
+Completely empty predictions    : 6/63 = 9.5%
+Aggregate voxel sensitivity     : 0.1580
+
+HCC-NEGATIVE
+Correct-empty specificity       : 21/69 = 30.4% (Wilson 95% CI 20.8-42.1%)
+False-positive scans            : 48/69 = 69.6%
+FP voxels among FP scans        : median 192.5, mean 920.4, range 1-5778
+
+==============================================================================
+DATASET805 — ARTERIAL + VENOUS PRIMARY OOF
+==============================================================================
+Mean Dice                       : 0.3705 (bootstrap 95% CI 0.2982-0.4437)
+Median Dice                     : 0.4245 (bootstrap 95% CI 0.2552-0.5405)
+Any-overlap detection           : 43/63 = 68.3% (Wilson 95% CI 56.0-78.4%)
+Zero-overlap HCC                : 20/63 = 31.7%
+Completely empty predictions    : 12/63 = 19.0%
+Aggregate voxel sensitivity     : 0.3518
+Correct-empty specificity       : 29/69 = 42.0% (Wilson 95% CI 31.1-53.8%)
+False-positive scans            : 40/69 = 58.0%
+FP voxels among FP scans        : median 292.0, mean 361.9, range 3-1497
+
+==============================================================================
+PAIRED COMPARISON — DATASET805 MINUS DATASET804
+==============================================================================
+Mean Dice difference            : +0.1435 (bootstrap 95% CI +0.0520 to +0.2343)
+Wilcoxon Dice p                 : 0.00222968
+Median Dice difference          : +0.3996 (bootstrap 95% CI +0.1347 to +0.5315)
+
+Detection difference            : +15.9 percentage points (bootstrap 95% CI +1.6 to +30.2)
+Detection discordance           : 804-only=7, 805-only=17
+Exact McNemar detection p       : 0.0639147
+
+Specificity difference          : +11.6 percentage points (bootstrap 95% CI -2.9 to +27.5)
+Specificity discordance         : 804-only=11, 805-only=19
+Exact McNemar specificity p     : 0.200488
+
+Aggregate voxel sensitivity     : 804=0.1580, 805=0.3518
+Mean per-case voxel-sensitivity difference                     : +0.1355 (bootstrap 95% CI +0.0454 to +0.2223)
+Wilcoxon voxel-sensitivity p    : 0.00484702
+
+Mean FP voxels/negative scan    : 804=640.3, 805=209.8
+Mean FP voxel difference        : -430.5 (bootstrap 95% CI -749.2 to -168.1)
+Wilcoxon FP burden p            : 0.0393681
+
+==============================================================================
+FILES WRITTEN
+==============================================================================
+<HCC_PROJECT_ROOT>/Dataset804_vs_Dataset805_paired_OOF.tsv
+<HCC_PROJECT_ROOT>/Dataset804_vs_Dataset805_primary_comparison.tsv
+<HCC_PROJECT_ROOT>/Dataset804_vs_Dataset805_statistical_summary.txt
+
+ALL CHECKS PASSED.

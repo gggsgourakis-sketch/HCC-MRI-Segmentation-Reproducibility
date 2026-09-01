@@ -1,0 +1,211 @@
+========================================================================
+OPENSWISSHCC DATASET AUDIT
+========================================================================
+
+METADATA
+------------------------------------------------------------------------
+Total lesion rows: 209
+Unique subjects: 132
+
+Exact TSV columns:
+  'ID'
+  'Lesion index'
+  'Cirrhosis etiology'
+  'Child Pugh Score'
+  'Machine'
+  'Number of lesions'
+  'Number of HCC lesions'
+  'HCC'
+  'Proven HCC'
+  'All lesion types'
+  'MRI-to-Biopsy Interval'
+  'Tumor differentiation'
+  'Lesion type'
+  'Barcelona criteria'
+  'MRI slice'
+  'Lesion size'
+  'Segment'
+  'T1 native presence'
+  'T1 native lesion enhancement'
+  'T2 type'
+  'T2 presence'
+  'T2 lesion enhancement'
+  'Arterial phase presence'
+  'Arterial phase TTC selection'
+  'Arterial phase lesion enhancement'
+  'Venous phase presence'
+  'Venous phase washout'
+  'Venous phase capsule'
+  'Venous phase early'
+  'Delayed phase presence'
+  'Delayed phase washout'
+  'Delayed phase capsule'
+  'Diffusion presence'
+  'ADC presence'
+  '>50% lesion growth'
+  'Mosaic aspect'
+  'Nodule in nodule'
+  'Fatty contingent'
+  'Hematic contigent'
+  'Necrosis'
+  'Endovenous tumor invasion (TIV)'
+  'LIRADS'
+  'Cirrhosis'
+  'Cirrhotic dystrophy (fibrosis)'
+  'Nodular appearance of the contours'
+  'Steatosis'
+  'Sign of HTTP (varicose veins)'
+
+Metadata subject-lesion pairs: 140
+
+MANUAL LESION ANNOTATIONS
+------------------------------------------------------------------------
+Total mask files: 664
+Subjects with ≥1 lesion mask: 63
+Unique annotated subject-lesion pairs: 140
+
+MASK FILES BY MODALITY / PHASE
+------------------------------------------------------------------------
+VENOUS                116
+DELAYED               110
+NATIVE                 92
+T2                     82
+TRACE_DWI              75
+ARTERIAL_TTC3          67
+ADC                    51
+ARTERIAL_SINGLE        43
+ARTERIAL_TTC1          23
+ARTERIAL_TTC2           5
+
+METADATA ↔ MASK MATCHING
+------------------------------------------------------------------------
+Metadata lesion pairs: 140
+Mask lesion pairs: 140
+Matched pairs: 140
+Metadata lesions without masks: 0
+Masks without metadata: 0
+
+========================================================================
+ALL METADATA LESIONS
+========================================================================
+
+HCC
+------------------------------------------------------------------------
+'1'                    97
+'NA'                   69
+'0'                    43
+
+Proven HCC
+------------------------------------------------------------------------
+'NA'                  112
+'2'                    60
+'1'                    37
+
+All lesion types
+------------------------------------------------------------------------
+'1.0'                  97
+'NA'                   69
+'3.0'                  37
+'4.0'                   5
+'2.0'                   1
+
+LIRADS
+------------------------------------------------------------------------
+'5'                    85
+'NA'                   69
+'4'                    24
+'3'                    20
+'TIV'                   5
+'2'                     5
+'M'                     1
+
+Tumor differentiation
+------------------------------------------------------------------------
+'NA'                  173
+'1'                    18
+'2'                    14
+'3'                     4
+
+========================================================================
+LESIONS WITH MANUAL SEGMENTATION
+========================================================================
+
+HCC
+------------------------------------------------------------------------
+'1'                    97
+'0'                    43
+
+Proven HCC
+------------------------------------------------------------------------
+'2'                    60
+'NA'                   43
+'1'                    37
+
+All lesion types
+------------------------------------------------------------------------
+'1.0'                  97
+'3.0'                  37
+'4.0'                   5
+'2.0'                   1
+
+LIRADS
+------------------------------------------------------------------------
+'5'                    85
+'4'                    24
+'3'                    20
+'TIV'                   5
+'2'                     5
+'M'                     1
+
+Tumor differentiation
+------------------------------------------------------------------------
+'NA'                  104
+'1'                    18
+'2'                    14
+'3'                     4
+
+LESION SIZE — MANUALLY SEGMENTED LESIONS
+------------------------------------------------------------------------
+N: 140
+Minimum: 6.0 mm
+Median: 17.0 mm
+Mean: 21.07 mm
+Maximum: 70.0 mm
+
+NUMBER OF ANNOTATED MODALITIES/PHASES PER LESION
+------------------------------------------------------------------------
+1 modalities/phases: 7 lesions
+2 modalities/phases: 10 lesions
+3 modalities/phases: 21 lesions
+4 modalities/phases: 26 lesions
+5 modalities/phases: 23 lesions
+6 modalities/phases: 17 lesions
+7 modalities/phases: 36 lesions
+
+MULTIPARAMETRIC ANNOTATION COMPLETENESS
+------------------------------------------------------------------------
+Combination                                                All    HCC
+------------------------------------------------------------------------
+Any arterial                                               136     97
+Arterial + venous                                          115     89
+Arterial + venous + delayed                                102     87
+Native + arterial + venous + delayed                        72     63
+T2 + TRACE DWI + ADC                                        45     44
+T2 + arterial + venous + delayed                            71     64
+T2 + TRACE DWI + ADC + arterial + venous + delayed          41     41
+
+SUBJECT-LEVEL HCC COMPOSITION
+------------------------------------------------------------------------
+Subjects containing only HCC annotated lesions: 36
+Subjects containing only non-HCC annotated lesions: 0
+Subjects containing both HCC and non-HCC lesions: 27
+
+SEGMENTED LESION SIZE THRESHOLDS
+------------------------------------------------------------------------
+< 10 mm: 8
+< 20 mm: 88
+< 30 mm: 113
+
+========================================================================
+AUDIT COMPLETE
+========================================================================

@@ -1,0 +1,10 @@
+python	3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0]
+platform	Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+nnunetv2	2.6.4
+torch	2.8.0+cu126
+numpy	2.4.4
+scipy	1.17.1
+pandas	3.0.2
+nibabel	5.4.2
+SimpleITK	2.5.3
+scikit-learn	1.8.0
